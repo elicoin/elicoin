@@ -55,7 +55,7 @@ If you'd like to support the development of Elicoin, please send us any amount o
 
 Cryptocurrency | Address
 -------------- | -------
-**Elicoin:** | [**EJVSdSmBu5od8bn2LttPgGi9FrSK9rH4hZ**]
+**Elicoin:** | [**EJVSdSmBu5od8bn2LttPgGi9FrSK9rH4hZ**]()
 **Bitcoin:** | [**38pYzc8bYBsfwdzRb4QPsqtLBkP4aEpuHr**](https://blockchain.info/address/38pYzc8bYBsfwdzRb4QPsqtLBkP4aEpuHr)
 **Bitcoin Cash:** | [**1K4maT9DpLJP1zAJy6ow7ZkNwDjBGB7Vky**](https://blockchair.com/search?q=1K4maT9DpLJP1zAJy6ow7ZkNwDjBGB7Vky)
 **Bitcoin Gold:** | [**AP2yBXTopHWrkLyC6wAhVHesUcfRVYxHmQ**](https://btgexplorer.com/address/AP2yBXTopHWrkLyC6wAhVHesUcfRVYxHmQ)
