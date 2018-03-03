@@ -89,7 +89,7 @@ Elicoin is open source software developed under [**MIT license**](./LICENSE).
 
 - Webpage: **https://elicoin.net**
 - E-mail: **info@elicoin.net**
-- Announce:
+- Announce: **https://bitcointalk.org/index.php?topic=3028302**
 - GitHub: **https://github.com/elicoin/elicoin**
 - Pool: **http://pool.elicoin.net**
 - Block explorer: **https://block.elicoin.net**
