@@ -1,4 +1,4 @@
-# Build and install Elicoin on Debian Linux 8.x
+## Build and install Elicoin on Debian 8.x / Ubuntu 16.04.x
 
 ```sh
 apt-get update && apt-get -y upgrade
