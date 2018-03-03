@@ -87,12 +87,14 @@ Elicoin is open source software developed under [**MIT license**](./LICENSE).
 
 # Contact info and links
 
-- Webpage: **https://elicoin.net**
-- E-mail: **info@elicoin.net**
-- Announce: **https://bitcointalk.org/index.php?topic=3028302**
-- GitHub: **https://github.com/elicoin/elicoin**
-- Pool: **http://pool.elicoin.net**
-- Block explorer: **https://block.elicoin.net**
-- Facebook: **https://www.facebook.com/elicoin.net/**
-- Elicoin GUI miner: **https://github.com/elicoin/elicoin-gui-miner/**
-- CPU miner: **https://github.com/JayDDee/cpuminer-opt**
+&nbsp; | &nbsp;
+------ | ------
+Webpage: | **https://elicoin.net**
+E-mail: | **info@elicoin.net**
+Announce: | **https://bitcointalk.org/index.php?topic=3028302**
+GitHub: | **https://github.com/elicoin/elicoin**
+Pool: | **http://pool.elicoin.net**
+Block explorer: | **https://block.elicoin.net**
+Facebook: | **https://www.facebook.com/elicoin.net/**
+Elicoin GUI miner: | **https://github.com/elicoin/elicoin-gui-miner/**
+CPU miner: | **https://github.com/JayDDee/cpuminer-opt**
