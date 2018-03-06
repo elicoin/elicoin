@@ -93,7 +93,7 @@ Elicoin is open source software developed under [**MIT license**](./LICENSE).
 
 # Contact info and links
 
-&nbsp; | &nbsp;
+Contact | Link
 ------ | ------
 Webpage: | **https://elicoin.net**
 E-mail: | **info@elicoin.net**
