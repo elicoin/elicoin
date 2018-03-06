@@ -47,7 +47,7 @@ Please see [**MINING.md**](./MINING.md) file.
 
 # Exchange
 Exchange | Pair
--------- | -------
+-------- | ----
 [**ICQBASE Exchange**](https://icqbase.com/exchange/ELI/BTC) | ELI/BTC
 [**ICQBASE Exchange**](https://icqbase.com/exchange/ELI/LTC) | ELI/LTC
 [**OpenTrade Multicoins**](https://trade.multicoins.org/) | MC/ELI
