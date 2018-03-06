@@ -46,7 +46,11 @@ Please see [**HALVING.md**](./HALVING.md) file.
 Please see [**MINING.md**](./MINING.md) file.
 
 # Exchange
-Elicoin is not on any exchange yet. If you're a cryptocurrency exchange owner and you would like to add Elicoin on your exchange, please inform us and we'll add a link to your exchange here.
+Pair | Address
+---- | -------
+ELI/BTC | [**ICQBASE Exchange**](https://icqbase.com/exchange/ELI/BTC)
+ELI/LTC | [**ICQBASE Exchange**](https://icqbase.com/exchange/ELI/LTC)
+MC/ELI | [**OpenTrade Multicoins**](https://trade.multicoins.org/)
 
 # Donations
 If you'd like to support the development of Elicoin, please send us any amount of your favourite cryptocurrency using these addresses:
