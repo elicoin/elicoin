@@ -2,7 +2,7 @@
 
 Pool address | Description
 ------------ | -----------
-http://pool.elicoin.net | **Official (recommended)**
+**http://pool.elicoin.net** | **Official (recommended)**
 https://saltpool.net
 https://www.lycheebit.com
 https://www.cryptorushmining.com
