@@ -85,7 +85,7 @@ If you'd like to donate us some cryptocurrency that is not listed here, please s
 
 Name | Link
 ---- | ----
-Official Elicoin block explorer | **https://block.elicoin.net**
+Official Elicoin block explorer | **http://block.elicoin.net**
 
 If you'd like us to list your own Elicoin block explorer here, please [**contact us**](./README.md#contact-info-and-links).
 
