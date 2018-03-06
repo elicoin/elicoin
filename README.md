@@ -52,6 +52,8 @@ Exchange | Pair
 [**ICQBASE Exchange**](https://icqbase.com/exchange/ELI/LTC) | ELI/LTC
 [**OpenTrade Multicoins**](https://trade.multicoins.org/) | MC/ELI
 
+If you're an exchange owner and you would like to add Elicoin on your exchange, please [**contact us**](./README.md#contact-info-and-links) and we'll add a link to your exchange here.
+
 # Donations
 If you'd like to support the development of Elicoin, please send us any amount of your favourite cryptocurrency using these addresses:
 
