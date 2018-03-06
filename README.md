@@ -46,11 +46,11 @@ Please see [**HALVING.md**](./HALVING.md) file.
 Please see [**MINING.md**](./MINING.md) file.
 
 # Exchange
-Pair | Address
----- | -------
-ELI/BTC | [**ICQBASE Exchange**](https://icqbase.com/exchange/ELI/BTC)
-ELI/LTC | [**ICQBASE Exchange**](https://icqbase.com/exchange/ELI/LTC)
-MC/ELI | [**OpenTrade Multicoins**](https://trade.multicoins.org/)
+Exchange | Pair
+-------- | -------
+[**ICQBASE Exchange**](https://icqbase.com/exchange/ELI/BTC) | ELI/BTC
+[**ICQBASE Exchange**](https://icqbase.com/exchange/ELI/LTC) | ELI/LTC
+[**OpenTrade Multicoins**](https://trade.multicoins.org/) | MC/ELI
 
 # Donations
 If you'd like to support the development of Elicoin, please send us any amount of your favourite cryptocurrency using these addresses:
