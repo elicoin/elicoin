@@ -41,9 +41,13 @@ You can download the latest version of **source codes** and **binary files** [**
 
 Please see [**HALVING.md**](./HALVING.md) file.
 
-# Mining
+# How to mine
 
 Please see [**MINING.md**](./MINING.md) file.
+
+# Mining pools
+
+Please see [**POOLS.md**](./POOLS.md) file.
 
 # Exchange
 Exchange | Pair
