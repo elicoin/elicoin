@@ -99,8 +99,12 @@ Webpage: | **https://elicoin.net**
 E-mail: | **info@elicoin.net**
 Announce: | **https://bitcointalk.org/index.php?topic=3028302**
 GitHub: | **https://github.com/elicoin/elicoin**
-Pool: | **http://pool.elicoin.net**
-Block explorer: | **https://block.elicoin.net**
 Facebook: | **https://www.facebook.com/elicoin.net/**
+Twitter: | **https://twitter.com/elicoin**
+Discord: | **https://discord.gg/cv77fUp**
+Elicoin Pool: | **http://pool.elicoin.net**
+Elicoin Block explorer: | **https://block.elicoin.net**
+Elicoin Block Explorer sources: | **https://github.com/elicoin/elicoin-block-explorer**
 Elicoin GUI miner: | **https://github.com/elicoin/elicoin-gui-miner/**
 CPU miner: | **https://github.com/JayDDee/cpuminer-opt**
+Elicoin Linux: | **https://github.com/elicoin/elicoin-linux**
