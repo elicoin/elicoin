@@ -108,6 +108,7 @@ GitHub: | **https://github.com/elicoin/elicoin**
 Facebook: | **https://www.facebook.com/elicoin.net/**
 Twitter: | **https://twitter.com/elicoin**
 Discord: | **https://discord.gg/cv77fUp**
+Telegram: | **http://t.me/elicoin**
 Elicoin Pool: | **http://pool.elicoin.net**
 Elicoin Block explorer: | **http://block.elicoin.net**
 Elicoin Block Explorer sources: | **https://github.com/elicoin/elicoin-block-explorer**
