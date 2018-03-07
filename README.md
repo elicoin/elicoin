@@ -76,14 +76,13 @@ If you'd like to donate us some cryptocurrency that is not listed here, please s
 
 # Roadmap
 
-- Get on exchanges
+- Get on more exchanges
+- Elicoin Linux distro (Live USB Flash distro for mining)
+- Find e-services that would like to accept Elicoin
 - Android, iOS and macOS wallet
 - Paper wallet
-- New website
-- Social media
-- New design of desktop wallet
 - ATM integration
-- Lightning Network implementation
+- New website
 
 # Block explorer
 
