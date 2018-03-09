@@ -8,7 +8,7 @@ Elicoin is a CPU mineable only cryptocurrency and open source software developed
 # Download wallet
 You can download the latest version of **source codes** and **binary files** [**HERE**](https://github.com/elicoin/elicoin/releases/).
 
-# Build wallet
+# Build wallet from source codes
 
 - Build on [Debian](./doc/build-debian.md) Linux
 - Build on [Ubuntu](./doc/build-ubuntu.md) Linux
