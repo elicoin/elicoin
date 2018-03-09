@@ -10,8 +10,8 @@ You can download the latest version of **source codes** and **binary files** [**
 
 # Build wallet
 
-- Build on [Debian] Linux](./doc/build-debian.md)
-- Build on [Ubuntu] Linux](./doc/build-ubuntu.md)
+- Build on [Debian](./doc/build-debian.md) Linux
+- Build on [Ubuntu](./doc/build-ubuntu.md) Linux
 - Build on [UNIX](./doc/build-unix.md)
 - Build on [Windows](./doc/build-windows.md)
 - Build on [macOS](./doc/build-osx.md)
