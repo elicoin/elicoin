@@ -90,6 +90,7 @@ If you'd like to donate us some cryptocurrency that is not listed here, please s
 Link | Description
 ---- | -----------
 **http://block.elicoin.net** | Official Elicoin block explorer
+**https://eliblocks.cryptoforge.cc** |
 **http://elicoin.lchain.cc** | 
 
 If you'd like us to list your own Elicoin block explorer here, please [**contact us**](./README.md#contact-info-and-links).
