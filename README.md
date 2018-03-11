@@ -105,7 +105,8 @@ Contact | Link
 ------ | ------
 Webpage: | **https://elicoin.net**
 E-mail: | **info@elicoin.net**
-Announce: | **https://bitcointalk.org/index.php?topic=3028302**
+BitcoinTalk: | **https://bitcointalk.org/index.php?topic=3028302**
+CryptocurrencyTalk: | **https://cryptocurrencytalk.com/topic/98937-anneli-elicoin-cpu-mining-only-exchange-available/**
 GitHub: | **https://github.com/elicoin/elicoin**
 Facebook: | **https://www.facebook.com/elicoin.net/**
 Twitter: | **https://twitter.com/elicoin**
