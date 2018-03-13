@@ -119,3 +119,5 @@ Elicoin Block Explorer sources: | **https://github.com/elicoin/elicoin-block-exp
 Elicoin GUI miner: | **https://github.com/elicoin/elicoin-gui-miner/**
 CPU miner: | **https://github.com/JayDDee/cpuminer-opt**
 Elicoin Linux: | **https://github.com/elicoin/elicoin-linux**
+CoinRanking: | **https://coinranking.com/coin/elicoin-eli**
+CryptoCompare: | **https://www.cryptocompare.com/coins/elistar/overview**
