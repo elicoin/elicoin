@@ -53,6 +53,7 @@ Please see [**POOLS.md**](./POOLS.md) file.
 # Exchange
 Exchange | Pair
 -------- | ----
+[**Crex24**](https://crex24.com/exchange/ELI-BTC) | ELI/BTC
 [**BarterDEX**](https://github.com/KomodoPlatform/BarterDEX/releases/) | Various pairs
 [**ICQBASE Exchange**](https://icqbase.com/exchange/ELI/BTC) | ELI/BTC
 [**ICQBASE Exchange**](https://icqbase.com/exchange/ELI/LTC) | ELI/LTC
