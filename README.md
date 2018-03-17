@@ -53,6 +53,7 @@ Please see [**POOLS.md**](./POOLS.md) file.
 # Exchange
 Exchange | Pair
 -------- | ----
+[**BarterDEX**](https://github.com/KomodoPlatform/BarterDEX/releases/) | Various pairs
 [**ICQBASE Exchange**](https://icqbase.com/exchange/ELI/BTC) | ELI/BTC
 [**ICQBASE Exchange**](https://icqbase.com/exchange/ELI/LTC) | ELI/LTC
 [**OpenTrade Multicoins**](https://trade.multicoins.org/) | MC/ELI
