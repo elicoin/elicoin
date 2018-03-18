@@ -26,7 +26,7 @@ You can download the latest version of **source codes** and **binary files** [**
 **Block halving:** | every 500 000 blocks
 **Average block time:** | 1 minute
 **Maximum block size:** | 4 MB (1 MB base size + 3 MB for SegWit)
-**Maximum transactions per block** | 8400
+**Maximum transactions per block**: | 8400
 **Algorithm:** | YescryptR16 (CPU only)
 **Difficulty retarget:** | Every block (DarkGravityWave ver. 3)
 **Premine:** | none
