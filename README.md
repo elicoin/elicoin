@@ -124,5 +124,5 @@ CPU miner: | **https://github.com/JayDDee/cpuminer-opt**
 Elicoin Linux: | **https://github.com/elicoin/elicoin-linux**
 CoinRanking: | **https://coinranking.com/coin/elicoin-eli**
 CryptoCompare: | **https://www.cryptocompare.com/coins/elistar/overview**
-CoinLib | **https://coinlib.io/coin/ELI2/Elicoin**
-WebAnalysis | **https://awebanalysis.com/en/coin-details/elicoin-eli/technology/**
+CoinLib: | **https://coinlib.io/coin/ELI2/Elicoin**
+WebAnalysis: | **https://awebanalysis.com/en/coin-details/elicoin-eli/technology/**
