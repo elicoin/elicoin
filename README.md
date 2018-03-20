@@ -54,9 +54,9 @@ Please see [**POOLS.md**](./POOLS.md) file.
 Exchange | Pair
 -------- | ----
 [**Crex24**](https://crex24.com/exchange/ELI-BTC) | ELI/BTC
-[**BarterDEX**](https://github.com/KomodoPlatform/BarterDEX/releases/) | Various pairs
 [**ICQBASE Exchange**](https://icqbase.com/exchange/ELI/BTC) | ELI/BTC
 [**ICQBASE Exchange**](https://icqbase.com/exchange/ELI/LTC) | ELI/LTC
+[**BarterDEX**](https://github.com/KomodoPlatform/BarterDEX/releases/) | Various pairs
 [**OpenTrade Multicoins**](https://trade.multicoins.org/) | MC/ELI
 
 If you're an exchange owner and you would like to add Elicoin on your exchange, please [**contact us**](./README.md#contact-info-and-links) and we'll add a link to your exchange here.
