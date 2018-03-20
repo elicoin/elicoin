@@ -116,6 +116,7 @@ Twitter: | **https://twitter.com/elicoin**
 Discord: | **https://discord.gg/cv77fUp**
 Telegram announcements: | **http://t.me/elicoin**
 Telegram chat: | **https://t.me/joinchat/IAFf6w8iCxwTxsZMxRx6Dg**
+Elicoin Paper Wallet Generator | **https://paper.elicoin.net**
 Elicoin Pool: | **http://pool.elicoin.net**
 Elicoin Block explorer: | **http://block.elicoin.net**
 Elicoin Block Explorer sources: | **https://github.com/elicoin/elicoin-block-explorer**
