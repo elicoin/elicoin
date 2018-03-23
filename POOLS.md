@@ -3,6 +3,7 @@
 Pool address | Description
 ------------ | -----------
 http://pool.elicoin.net | **Official (recommended)**
+http://elicoin-pool.ml
 https://lpool.name/pool/ELI
 https://saltpool.net
 https://www.lycheebit.com
