@@ -29,7 +29,7 @@ Build Elicoin Core
 
 1. Clone the elicoin source code and cd into `elicoin`
 
-        git clone https://github.com/elicoin-project/elicoin
+        git clone https://github.com/elicoin/elicoin
         cd elicoin
 
 2.  Build elicoin-core:
