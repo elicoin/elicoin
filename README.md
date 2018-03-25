@@ -81,9 +81,9 @@ If you'd like to donate us some cryptocurrency that is not listed here, please s
 
 - Get on more exchanges
 - Elicoin Linux distro (Live USB Flash distro for mining)
-- Find e-services that would like to accept Elicoin
-- Android, iOS and macOS wallet
+- Android and iOS wallet
 - Web wallet
+- Find e-services that would like to accept Elicoin
 - ATM integration
 - New website
 
