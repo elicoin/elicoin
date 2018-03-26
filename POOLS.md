@@ -3,6 +3,7 @@
 Pool address | Description
 ------------ | -----------
 http://pool.elicoin.net | **Official (recommended)**
+https://pool.cirserv.com
 http://www.cryptocoinerpool.de
 http://elicoin-pool.ml
 https://lpool.name/pool/ELI
