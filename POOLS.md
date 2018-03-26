@@ -16,5 +16,6 @@ http://miningpool.shop
 http://hashvalue.pw
 https://eli.cryptoforge.cc
 http://pool.ivema.es
+http://mineblocks.ch
 
 If you'd like us to list your Elicoin pool here, please [contact Elicoin developers team](./README.md#contact-info-and-links).
