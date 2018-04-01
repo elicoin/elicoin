@@ -3,6 +3,7 @@
 Pool address | Description
 ------------ | -----------
 http://pool.elicoin.net | **Official (recommended)**
+https://www.quantumminingpool.com
 https://pool.cirserv.com
 http://www.cryptocoinerpool.de
 http://elicoin-pool.ml
