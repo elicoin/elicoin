@@ -125,8 +125,8 @@ Elicoin Block Explorer sources: | **https://github.com/elicoin/elicoin-block-exp
 Elicoin GUI miner: | **https://github.com/elicoin/elicoin-gui-miner/**
 CPU miner: | **https://github.com/JayDDee/cpuminer-opt**
 Elicoin Linux: | **https://github.com/elicoin/elicoin-linux**
-Live Coin Watch | **https://www.livecoinwatch.com/price/Elicoin-ELI**
+CoinLib: | **https://coinlib.io/coin/ELI2/Elicoin**
+Live Coin Watch: | **https://www.livecoinwatch.com/price/Elicoin-ELI**
 CoinRanking: | **https://coinranking.com/coin/elicoin-eli**
 CryptoCompare: | **https://www.cryptocompare.com/coins/elistar/overview**
-CoinLib: | **https://coinlib.io/coin/ELI2/Elicoin**
 WebAnalysis: | **https://awebanalysis.com/en/coin-details/elicoin-eli/technology/**
