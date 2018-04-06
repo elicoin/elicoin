@@ -40,6 +40,16 @@ cd cpuminer
 *Version 3.8.x throws some error during compilation, please use 3.7.10 instead.*  
 *This example doesn't work on Debian 9.x, other Linux distributions were not tested.*
 
+### Mine Elicoin on Android:
+
+- Download and install AA Miner from Google Play: https://play.google.com/store/apps/details?id=com.aaminer.miner
+- Run AA Miner
+- Set algorithm to **yescryptr16**
+- Pool address: **stratum+tcp://pool.elicoin.net:3333** (or any other pool address)
+- User: [YOUR WALLET ADDRESS]
+- Pass: nothing or "x"
+- Tap on **Start mining**
+
 #### Run cpuminer-opt on Linux:
 
 ```sh
