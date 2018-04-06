@@ -58,7 +58,7 @@ cd cpuminer
 
 ### Mine Elicoin on Android:
 
-- Download and install [AA Miner from Google Play](https://play.google.com/store/apps/details?id=com.aaminer.miner)
+- Download and install [**AA Miner from Google Play**](https://play.google.com/store/apps/details?id=com.aaminer.miner)
 - Run AA Miner
 - Set algorithm to **yescryptr16**
 - Pool address: **stratum+tcp://pool.elicoin.net:3333** (or any other pool address)
