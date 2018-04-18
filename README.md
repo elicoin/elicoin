@@ -129,6 +129,7 @@ Elicoin GUI miner: | **https://github.com/elicoin/elicoin-gui-miner/**
 CPU miner: | **https://github.com/JayDDee/cpuminer-opt**
 Android miner: | **https://play.google.com/store/apps/details?id=com.aaminer.miner**
 Elicoin Linux: | **https://github.com/elicoin/elicoin-linux**
+Delta app: | **https://getdelta.io/**
 CoinLib: | **https://coinlib.io/coin/ELI2/Elicoin**
 Live Coin Watch: | **https://www.livecoinwatch.com/price/Elicoin-ELI**
 CoinRanking: | **https://coinranking.com/coin/elicoin-eli**
