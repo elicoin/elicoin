@@ -4,6 +4,7 @@ Pool address | Description
 ------------ | -----------
 http://pool.elicoin.net | **Official (recommended)**
 https://deutscherminingpool.de
+http://jupiterix.ddns.net
 https://www.quantumminingpool.com
 https://pool.cirserv.com
 http://www.cryptocoinerpool.de
