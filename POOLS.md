@@ -18,5 +18,6 @@ http://hashvalue.pw
 https://eli.cryptoforge.cc
 http://pool.ivema.es
 http://p4pool.club
+http://axpool.net
 
 If you'd like us to list your Elicoin pool here, please [contact Elicoin developers team](./README.md#contact-info-and-links).
