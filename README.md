@@ -89,8 +89,10 @@ If you'd like to donate us some cryptocurrency that is not listed here, please s
 - Elicoin payment gateway
 - Elicoin e-shop
 - Elicoin Linux distro (Live USB Flash distro for mining)
+- Hardware wallets support
 - Find e-services that would like to accept Elicoin
 - ATM integration
+
 
 # Block explorer
 
