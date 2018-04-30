@@ -121,7 +121,7 @@ Facebook: | **https://www.facebook.com/elicoin.net/**
 Twitter: | **https://twitter.com/elicoin**
 Discord: | **https://discord.gg/cv77fUp**
 Telegram announcements: | **http://t.me/elicoin**
-Telegram chat: | **https://t.me/joinchat/IAFf6w8iCxwTxsZMxRx6Dg**
+Telegram chat: | **http://t.me/elicoin_chat**
 Slack: | **https://join.slack.com/t/elicoin/shared_invite/enQtMzQ2OTExMDMwOTE0LWFkNjBjMTBhMmRhNGFmZWM2YjdjOTBlNzdmODYxNDE5Y2JhMTU2ZDVmZTdkYjJiOWI3ZGMxYWY5MzJmNzAxNDQ**
 Elicoin Paper Wallet Generator | **https://paper.elicoin.net**
 Elicoin Pool: | **http://pool.elicoin.net**
