@@ -20,5 +20,6 @@ http://pool.ivema.es
 http://p4pool.club
 http://axpool.net
 https://www.joinmycrypto.tk
+http://superpool.pw
 
 If you'd like us to list your Elicoin pool here, please [contact Elicoin developers team](./README.md#contact-info-and-links).
