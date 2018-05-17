@@ -3,6 +3,7 @@
 Pool address | Description
 ------------ | -----------
 http://pool.elicoin.net | **Official (recommended)**
+http://eli-pool.ga
 https://deutscherminingpool.de
 http://jupiterix.ddns.net
 https://www.quantumminingpool.com
