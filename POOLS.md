@@ -25,5 +25,6 @@ http://superpool.pw
 https://tnthash.fun
 http://crypto.n-engine.com
 http://eli-pool.ga
+https://hashnice.pw
 
 If you'd like us to list your Elicoin pool here, please [contact Elicoin developers team](./README.md#contact-info-and-links).
