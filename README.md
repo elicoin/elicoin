@@ -5,13 +5,13 @@ Elicoin is a CPU mineable cryptocurrency and open source software developed unde
  <img src="https://elicoin.net/img/logobig.png" alt="Elicoin">
 </p>
 
-# Download wallet
-- [Elicoin Core wallet for Windows](https://github.com/elicoin/elicoin/releases/)
-- [Elicoin Core wallet for macOS](https://github.com/elicoin/elicoin/releases/)
-- [Elicoin Core wallet for Debian / Ubuntu Linux](https://github.com/elicoin/elicoin/releases/)
-- [Elicoin Paper Wallet](https://paper.elicoin.net)
+# Wallets
+- [Download Elicoin Core wallet for Windows](https://github.com/elicoin/elicoin/releases/)
+- [Download Elicoin Core wallet for macOS](https://github.com/elicoin/elicoin/releases/)
+- [Download Elicoin Core wallet for Debian / Ubuntu Linux](https://github.com/elicoin/elicoin/releases/)
+- [Elicoin Paper Wallet Generator webpage](https://paper.elicoin.net)
 
-# Build wallet from source codes
+# Build Elicoin Core wallet from source codes
 
 - Build on [Debian](./doc/build-debian.md) Linux
 - Build on [Ubuntu](./doc/build-ubuntu.md) Linux
