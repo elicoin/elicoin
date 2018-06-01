@@ -111,8 +111,11 @@ Elicoin is open source software developed under [**MIT license**](./LICENSE).
 
 # Contact info and links
 
-**Community:**
+**Contacts:**
 - [**Official webpage**](https://elicoin.net)
+- [**Elicoin user support e-mail**](info@elicoin.net)
+
+**Community:**
 - [**Elicoin on BitcoinTalk**](https://bitcointalk.org/index.php?topic=3028302)
 - [**Elicoin on CryptocurrencyTalk**](https://cryptocurrencytalk.com/topic/98937-anneli-elicoin-cpu-mining-only-exchange-available/)
 - [**Elicoin on GitHub**](https://github.com/elicoin/elicoin)
@@ -141,6 +144,3 @@ Elicoin is open source software developed under [**MIT license**](./LICENSE).
 - [**CoinRanking**](https://coinranking.com/coin/elicoin-eli)
 - [**CryptoCompare**](https://www.cryptocompare.com/coins/elistar/overview)
 - [**WebAnalysis**](https://awebanalysis.com/en/coin-details/elicoin-eli/technology/)
-
-**Contacts:**
-- [**Elicoin user support e-mail**](info@elicoin.net)
