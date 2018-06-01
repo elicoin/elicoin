@@ -112,7 +112,7 @@ Elicoin is open source software developed under [**MIT license**](./LICENSE).
 # Contact info and links
 
 **Official links:**
-- [**Official webpage**](https://elicoin.net)
+- [**Elicoin webpage**](https://elicoin.net)
 - [**Elicoin projects on GitHub**](https://github.com/elicoin)
 - [**Elicoin user support e-mail**](info@elicoin.net)
 
