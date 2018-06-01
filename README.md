@@ -111,14 +111,14 @@ Elicoin is open source software developed under [**MIT license**](./LICENSE).
 
 # Contact info and links
 
-**Contacts:**
+**Official links:**
 - [**Official webpage**](https://elicoin.net)
+- [**Elicoin projects on GitHub**](https://github.com/elicoin)
 - [**Elicoin user support e-mail**](info@elicoin.net)
 
 **Community:**
 - [**Elicoin on BitcoinTalk**](https://bitcointalk.org/index.php?topic=3028302)
 - [**Elicoin on CryptocurrencyTalk**](https://cryptocurrencytalk.com/topic/98937-anneli-elicoin-cpu-mining-only-exchange-available/)
-- [**Elicoin on GitHub**](https://github.com/elicoin/elicoin)
 - [**Elicoin on Facebook**](https://www.facebook.com/elicoin.net/)
 - [**Elicoin on Twitter**](https://twitter.com/elicoin)
 - [**Elicoin Discord server**](https://discord.gg/cv77fUp)
