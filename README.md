@@ -9,6 +9,7 @@ Elicoin is a CPU mineable cryptocurrency and open source software developed unde
 - [Elicoin Core wallet for Windows](https://github.com/elicoin/elicoin/releases/)
 - [Elicoin Core wallet for macOS](https://github.com/elicoin/elicoin/releases/)
 - [Elicoin Core wallet for Debian / Ubuntu Linux](https://github.com/elicoin/elicoin/releases/)
+- [Elicoin Paper Wallet](https://paper.elicoin.net)
 
 # Build wallet from source codes
 
@@ -110,30 +111,36 @@ Elicoin is open source software developed under [**MIT license**](./LICENSE).
 
 # Contact info and links
 
-Contact | Link
------- | ------
-Webpage: | **https://elicoin.net**
-E-mail: | **info@elicoin.net**
-BitcoinTalk: | **https://bitcointalk.org/index.php?topic=3028302**
-CryptocurrencyTalk: | **https://cryptocurrencytalk.com/topic/98937-anneli-elicoin-cpu-mining-only-exchange-available/**
-GitHub: | **https://github.com/elicoin/elicoin**
-Facebook: | **https://www.facebook.com/elicoin.net/**
-Twitter: | **https://twitter.com/elicoin**
-Discord: | **https://discord.gg/cv77fUp**
-Telegram announcements: | **http://t.me/elicoin**
-Telegram chat: | **http://t.me/elicoin_chat**
-Slack: | **https://join.slack.com/t/elicoin/shared_invite/enQtMzQ2OTExMDMwOTE0LWFkNjBjMTBhMmRhNGFmZWM2YjdjOTBlNzdmODYxNDE5Y2JhMTU2ZDVmZTdkYjJiOWI3ZGMxYWY5MzJmNzAxNDQ**
-Elicoin Paper Wallet Generator | **https://paper.elicoin.net**
-Elicoin Pool: | **http://pool.elicoin.net**
-Elicoin Block explorer: | **http://block.elicoin.net**
-Elicoin Block Explorer sources: | **https://github.com/elicoin/elicoin-block-explorer**
-Elicoin GUI miner: | **https://github.com/elicoin/elicoin-gui-miner/**
-CPU miner: | **https://github.com/JayDDee/cpuminer-opt**
-Android miner: | **https://play.google.com/store/apps/details?id=com.aaminer.miner**
-Elicoin Linux: | **https://github.com/elicoin/elicoin-linux**
-Delta app: | **https://getdelta.io/**
-CoinLib: | **https://coinlib.io/coin/ELI2/Elicoin**
-Live Coin Watch: | **https://www.livecoinwatch.com/price/Elicoin-ELI**
-CoinRanking: | **https://coinranking.com/coin/elicoin-eli**
-CryptoCompare: | **https://www.cryptocompare.com/coins/elistar/overview**
-WebAnalysis: | **https://awebanalysis.com/en/coin-details/elicoin-eli/technology/**
+**Community:**
+- [**Official webpage**](https://elicoin.net)
+- [**Elicoin on BitcoinTalk**](https://bitcointalk.org/index.php?topic=3028302)
+- [**Elicoin on CryptocurrencyTalk**](https://cryptocurrencytalk.com/topic/98937-anneli-elicoin-cpu-mining-only-exchange-available/)
+- [**Elicoin on GitHub**](https://github.com/elicoin/elicoin)
+- [**Elicoin on Facebook**](https://www.facebook.com/elicoin.net/)
+- [**Elicoin on Twitter**](https://twitter.com/elicoin)
+- [**Elicoin Discord server**](https://discord.gg/cv77fUp)
+- [**Elicoin Telegram announcements**](http://t.me/elicoin)
+- [**Elicoin Telegram chat**](http://t.me/elicoin_chat)
+- [**Elicoin on Slack**](https://join.slack.com/t/elicoin/shared_invite/enQtMzQ2OTExMDMwOTE0LWFkNjBjMTBhMmRhNGFmZWM2YjdjOTBlNzdmODYxNDE5Y2JhMTU2ZDVmZTdkYjJiOWI3ZGMxYWY5MzJmNzAxNDQ)
+
+**Block Explorer:**
+- [**Elicoin Block Explorer**](http://block.elicoin.net)
+- [**Elicoin Block Explorer source codes**](https://github.com/elicoin/elicoin-block-explorer)
+
+**Mining tools:**
+- [**Elicoin GUI Miner**](https://github.com/elicoin/elicoin-gui-miner/)
+- [**CPU Miner**](https://github.com/JayDDee/cpuminer-opt)
+- [**Android Miner**](https://play.google.com/store/apps/details?id=com.aaminer.miner)
+- [**Elicoin Linux**](https://github.com/elicoin/elicoin-linux)
+
+**Price watching tools:**
+- [**Delta app**](https://getdelta.io/)
+- [**Blockfolio app**](https://blockfolio.com/)
+- [**CoinLib**](https://coinlib.io/coin/ELI2/Elicoin)
+- [**Live Coin Watch**](https://www.livecoinwatch.com/price/Elicoin-ELI)
+- [**CoinRanking**](https://coinranking.com/coin/elicoin-eli)
+- [**CryptoCompare**](https://www.cryptocompare.com/coins/elistar/overview)
+- [**WebAnalysis**](https://awebanalysis.com/en/coin-details/elicoin-eli/technology/)
+
+**Contacts:**
+- [**Elicoin user support e-mail**](info@elicoin.net)
