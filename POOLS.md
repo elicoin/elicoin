@@ -4,6 +4,7 @@ Pool address | Description
 ------------ | -----------
 http://pool.elicoin.net | **Official (recommended)**
 https://beastpool.com
+http://blockmasters.co
 https://www.quantumminingpool.com
 https://pool.cirserv.com
 http://elicoin-pool.ml
