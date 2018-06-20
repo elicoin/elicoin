@@ -22,5 +22,7 @@ http://crypto.n-engine.com
 http://eli-pool.ga
 https://hashnice.pw
 http://cpu-pool.com
+http://zergpool.com
+https://smithpool.net
 
 If you'd like us to list your Elicoin pool here, please [contact Elicoin developers team](./README.md#contact-info-and-links).
