@@ -24,5 +24,6 @@ https://hashnice.pw
 http://cpu-pool.com
 http://zergpool.com
 https://smithpool.net
+http://knownpool.ml
 
 If you'd like us to list your Elicoin pool here, please [contact Elicoin developers team](./README.md#contact-info-and-links).
