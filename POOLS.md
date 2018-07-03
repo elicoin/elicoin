@@ -7,7 +7,6 @@ https://beastpool.com
 https://pool.cirserv.com
 http://elicoin-pool.ml
 https://lpool.name/pool/ELI
-https://saltpool.net
 https://www.lycheebit.com
 http://hashpool.eu 
 http://hashvalue.pw
@@ -23,7 +22,9 @@ http://cpu-pool.com
 http://zergpool.com
 https://smithpool.net
 http://knownpool.ml
+https://saltpool.net
 http://blockmasters.co
 https://www.quantumminingpool.com
+
 
 If you'd like us to list your Elicoin pool here, please [contact Elicoin developers team](./README.md#contact-info-and-links).
