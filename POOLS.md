@@ -11,7 +11,6 @@ https://www.lycheebit.com
 http://hashpool.eu 
 https://eli.cryptoforge.cc
 http://pool.ivema.es
-http://axpool.net
 https://www.joinmycrypto.tk
 https://tnthash.fun
 http://crypto.n-engine.com
