@@ -9,7 +9,6 @@ http://elicoin-pool.ml
 https://lpool.name/pool/ELI
 https://www.lycheebit.com
 http://hashpool.eu 
-http://hashvalue.pw
 https://eli.cryptoforge.cc
 http://pool.ivema.es
 http://axpool.net
@@ -25,6 +24,6 @@ http://knownpool.ml
 https://saltpool.net
 http://blockmasters.co
 https://www.quantumminingpool.com
-
+http://hashvalue.pw
 
 If you'd like us to list your Elicoin pool here, please [contact Elicoin developers team](./README.md#contact-info-and-links).
