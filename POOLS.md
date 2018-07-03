@@ -4,8 +4,6 @@ Pool address | Description
 ------------ | -----------
 http://pool.elicoin.net | **Official (recommended)**
 https://beastpool.com
-http://blockmasters.co
-https://www.quantumminingpool.com
 https://pool.cirserv.com
 http://elicoin-pool.ml
 https://lpool.name/pool/ELI
@@ -25,5 +23,7 @@ http://cpu-pool.com
 http://zergpool.com
 https://smithpool.net
 http://knownpool.ml
+http://blockmasters.co
+https://www.quantumminingpool.com
 
 If you'd like us to list your Elicoin pool here, please [contact Elicoin developers team](./README.md#contact-info-and-links).
