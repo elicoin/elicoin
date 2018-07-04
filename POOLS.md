@@ -12,7 +12,6 @@ http://hashpool.eu
 http://pool.ivema.es
 https://www.joinmycrypto.tk
 https://tnthash.fun
-http://crypto.n-engine.com
 http://eli-pool.ga
 https://hashnice.pw
 http://cpu-pool.com
