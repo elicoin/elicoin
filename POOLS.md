@@ -9,7 +9,6 @@ http://elicoin-pool.ml
 https://lpool.name/pool/ELI
 https://www.lycheebit.com
 http://hashpool.eu 
-https://eli.cryptoforge.cc
 http://pool.ivema.es
 https://www.joinmycrypto.tk
 https://tnthash.fun
@@ -20,6 +19,7 @@ http://cpu-pool.com
 http://zergpool.com
 https://smithpool.net
 http://knownpool.ml
+https://eli.cryptoforge.cc
 https://saltpool.net
 http://blockmasters.co
 https://www.quantumminingpool.com
