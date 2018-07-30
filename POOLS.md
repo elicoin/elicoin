@@ -17,5 +17,6 @@ https://eli.cryptoforge.cc
 https://saltpool.net
 http://blockmasters.co
 http://hashvalue.pw
+http://cpu-mining.xyz
 
 If you'd like us to list your Elicoin pool here, please [contact Elicoin developers team](./README.md#contact-info-and-links).
