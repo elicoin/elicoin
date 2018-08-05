@@ -145,3 +145,6 @@ Elicoin is open source software developed under [**MIT license**](./LICENSE).
 - [**CryptoCompare**](https://www.cryptocompare.com/coins/elistar/overview)
 - [**WebAnalysis**](https://awebanalysis.com/en/coin-details/elicoin-eli/technology/)
 - [**Coinbio**](https://coinbio.com/elicoin-eli*/)
+
+**Others:**
+- [**Elicoin Monitor**](http://crypto.febet.cz/eli/)
