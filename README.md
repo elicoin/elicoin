@@ -150,3 +150,4 @@ Elicoin is open source software developed under [**MIT license**](./LICENSE).
 
 **Others:**
 - [**Elicoin Monitor**](http://crypto.febet.cz/eli/)
+- [**Elicoin Pool Explorer**](https://poolexplorer.com/coin/3654)
