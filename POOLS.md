@@ -3,6 +3,7 @@
 Pool address | Description
 ------------ | -----------
 http://pool.elicoin.net | **Official (recommended)**
+http://pool.cnode.id
 https://weekendpool.org
 https://qpool.info
 https://www.quantumminingpool.com
