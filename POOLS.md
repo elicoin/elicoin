@@ -21,5 +21,6 @@ http://cpu-pool.com
 http://hashvalue.pw
 https://beastpool.com
 http://elimine.ml:8080
+http://cpumining.zapto.org
 
 If you'd like us to list your Elicoin pool here, please [contact Elicoin developers team](./README.md#contact-info-and-links).
