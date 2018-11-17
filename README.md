@@ -50,9 +50,10 @@ Please see [**HALVING.md**](./HALVING.md) file.
 Please see [**MINING.md**](./MINING.md) file.
 
 # Mining pools
-
-Official list - [**POOLS.md**](./POOLS.md) file on GitHub.
-Unofficial list - [**Miningpoolstats.stream**](https://miningpoolstats.stream/elicoin) on web.
+&nbsp; | &nbsp;
+------ | ------
+Official list | [**POOLS.md**](./POOLS.md) file on GitHub.
+Unofficial list | [**Miningpoolstats.stream**](https://miningpoolstats.stream/elicoin) on web.
 
 # Exchange
 Exchange | Pair
