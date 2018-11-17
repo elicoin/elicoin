@@ -51,7 +51,8 @@ Please see [**MINING.md**](./MINING.md) file.
 
 # Mining pools
 
-Please see [**POOLS.md**](./POOLS.md) file.
+Official list - [**POOLS.md**](./POOLS.md) file on GitHub.
+Unofficial list - [**Miningpoolstats.stream**](https://miningpoolstats.stream/elicoin) on web.
 
 # Exchange
 Exchange | Pair
