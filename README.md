@@ -136,7 +136,7 @@ Elicoin is open source software developed under [**MIT license**](./LICENSE).
 - [**Android Miner**](https://play.google.com/store/apps/details?id=com.aaminer.miner)
 - [**Elicoin Linux**](https://github.com/elicoin/elicoin-linux)
 
-**Price watch tools:**
+**Price watch websites and tools:**
 - [**Delta app**](https://getdelta.io/)
 - [**Blockfolio app**](https://blockfolio.com/)
 - [**CoinGecko**](https://www.coingecko.com/en/coins/elicoin)
@@ -149,6 +149,7 @@ Elicoin is open source software developed under [**MIT license**](./LICENSE).
 - [**Coinbio**](https://coinbio.com/elicoin-eli*/)
 - [**Token Daily**](https://www.tokendaily.co/elicoin)
 - [**ATHDA**](https://athda.com/coin/elicoin)
+- [**Coinpaprika**](https://coinpaprika.com/coin/eli-elicoin/)
 
 **Others:**
 - [**Elicoin Monitor**](http://crypto.febet.cz/eli/)
