@@ -150,6 +150,7 @@ Elicoin is open source software developed under [**MIT license**](./LICENSE).
 - [**Token Daily**](https://www.tokendaily.co/elicoin)
 - [**ATHDA**](https://athda.com/coin/elicoin)
 - [**Coinpaprika**](https://coinpaprika.com/coin/eli-elicoin/)
+- [**Neironix**](https://neironix.io/cryptocurrency/elicoin)
 
 **Others:**
 - [**Elicoin Monitor**](http://crypto.febet.cz/eli/)
