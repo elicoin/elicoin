@@ -59,7 +59,7 @@ Unofficial list | [**Miningpoolstats.stream**](https://miningpoolstats.stream/el
 Exchange | Pair
 -------- | ----
 [**Crex24**](https://crex24.com/exchange/ELI-BTC) | ELI/BTC
-[**BitexBay**](https://www.bitexbay.com/Home/Orders/index/currency/ELI-BTC.html) | ELI/BTC
+[**Rocket Exchange**](https://rocket-exchange.net/market/ENY-ELI) | ELI/BTC
 [**BarterDEX**](https://github.com/KomodoPlatform/BarterDEX/releases/) | Various pairs
 [**OpenTrade Multicoins**](https://trade.multicoins.org/) | MC/ELI
 
