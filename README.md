@@ -84,7 +84,7 @@ If you'd like to donate us some cryptocurrency that is not listed here, please s
 # Roadmap
 
 - Get on more exchanges
-- Android and iOS wallet
+- iOS wallet
 - Web wallet
 - New website
 - Elicoin payment gateway
