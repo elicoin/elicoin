@@ -50,43 +50,8 @@ Please see [**MINING.md**](./MINING.md) file.
 Official list | [**POOLS.md**](./POOLS.md) file on GitHub.
 Unofficial list | [**Miningpoolstats.stream**](https://miningpoolstats.stream/rtidcoin) on web.
 
-# Exchange
-Exchange | Pair
--------- | ----
-[**Crex24**](https://crex24.com/exchange/RTID-BTC) | RTID/BTC
-[**Rocket Exchange**](https://rocket-exchange.net/market/ENY-RTID) | RTID/BTC
-[**BarterDEX**](https://github.com/KomodoPlatform/BarterDEX/releases/) | Various pairs
-[**OpenTrade Multicoins**](https://trade.multicoins.org/) | MC/RTID
 
 If you're an exchange owner and you would like to add Rtidcoin on your exchange, please [**contact us**](./README.md#contact-info-and-links) and we'll add a link to your exchange here.
-
-# Donations
-If you'd like to support the development of Rtidcoin, please send us any amount of your favourite cryptocurrency using these addresses:
-
-Cryptocurrency | Address
--------------- | -------
-**Rtidcoin:** | [**EJVSdSmBu5od8bn2LttPgGi9FrSK9rH4hZ**]()
-**Bitcoin:** | [**38pYzc8bYBsfwdzRb4QPsqtLBkP4aEpuHr**](https://blockchain.info/address/38pYzc8bYBsfwdzRb4QPsqtLBkP4aEpuHr)
-**Bitcoin Cash:** | [**1K4maT9DpLJP1zAJy6ow7ZkNwDjBGB7Vky**](https://blockchair.com/search?q=1K4maT9DpLJP1zAJy6ow7ZkNwDjBGB7Vky)
-**Bitcoin Gold:** | [**AP2yBXTopHWrkLyC6wAhVHesUcfRVYxHmQ**](https://btgexplorer.com/address/AP2yBXTopHWrkLyC6wAhVHesUcfRVYxHmQ)
-**Litecoin:** | [**MUA1tB8YRtgssnLE1xnYMfjBcmF4CDCV5o**](https://ltc-bitcore1.trezor.io/address/MUA1tB8YRtgssnLE1xnYMfjBcmF4CDCV5o)
-**Dash:** | [**XneE9zTjxLaHPuYH2mdrqaLKfkgV6tagyq**](https://explorer.dash.org/address/XneE9zTjxLaHPuYH2mdrqaLKfkgV6tagyq)
-**Zcash:** | [**t1YVZ1Qjckfzj5QR89yKV78RGsDeRojcR1M**](https://explorer.zcha.in/accounts/t1YVZ1Qjckfzj5QR89yKV78RGsDeRojcR1M)
-**DeepOnion:** | [**DVLNBTJAdao85UzJ6R4833JTtrw3cMBaK1**](http://explorer.deeponion.org/address/DVLNBTJAdao85UzJ6R4833JTtrw3cMBaK1)
-
-If you'd like to donate us some cryptocurrency that is not listed here, please send us the e-mail and we'll send you the new address in this specific cryptocurrency. Thank you!
-
-# Roadmap
-
-- Get on more exchanges
-- iOS wallet
-- Web wallet
-- Rtidcoin payment gateway
-- Rtidcoin e-shop
-- Rtidcoin Linux distro (Live USB Flash distro for mining)
-- Hardware wallets support
-- Find e-services that would like to accept Rtidcoin
-- ATM integration
 
 
 # Block explorer
