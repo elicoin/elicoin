@@ -1,10 +1,10 @@
-# List of Elicoin mining pools
+# List of Rtidcoin mining pools
 
 Pool address | Description
 ------------ | -----------
-http://pool.elicoin.net | **Official (recommended)**
+http://pool.rtidcoin.net | **Official (recommended)**
 https://qpool.info
-http://elicoin-pool.ml
+http://rtidcoin-pool.ml
 https://www.lycheebit.com
 http://hashpool.eu 
 http://eli-pool.ga
@@ -13,4 +13,4 @@ http://cpu-pool.com
 http://happysensor.xyz
 http://cpumining.zapto.org
 
-If you'd like us to list your Elicoin pool here, please [contact Elicoin developers team](./README.md#contact-info-and-links).
+If you'd like us to list your Rtidcoin pool here, please [contact Rtidcoin developers team](./README.md#contact-info-and-links).

@@ -114,8 +114,8 @@
         <translation>Newid y cyfrinymadrodd a ddefnyddiwyd ar gyfer amgryptio'r waled</translation>
     </message>
     <message>
-        <source>Elicoin</source>
-        <translation>Elicoin</translation>
+        <source>Rtidcoin</source>
+        <translation>Rtidcoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -484,8 +484,8 @@
         <translation>Opsiynau:</translation>
     </message>
     <message>
-        <source>Elicoin Core</source>
-        <translation>Craidd Elicoin</translation>
+        <source>Rtidcoin Core</source>
+        <translation>Craidd Rtidcoin</translation>
     </message>
     <message>
         <source>Information</source>

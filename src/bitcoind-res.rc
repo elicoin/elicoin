@@ -16,14 +16,14 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "Elicoin"
-            VALUE "FileDescription",    "elicoind (Elicoin node with a JSON-RPC server)"
+            VALUE "CompanyName",        "Rtidcoin"
+            VALUE "FileDescription",    "rtidcoind (Rtidcoin node with a JSON-RPC server)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
-            VALUE "InternalName",       "elicoind"
+            VALUE "InternalName",       "rtidcoind"
             VALUE "LegalCopyright",     COPYRIGHT_STR
             VALUE "LegalTrademarks1",   "Distributed under the MIT software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
-            VALUE "OriginalFilename",   "elicoind.exe"
-            VALUE "ProductName",        "elicoind"
+            VALUE "OriginalFilename",   "rtidcoind.exe"
+            VALUE "ProductName",        "rtidcoind"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END
     END

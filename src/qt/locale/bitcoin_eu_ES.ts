@@ -62,12 +62,12 @@
         <translation>Helbideak jasotzen</translation>
     </message>
     <message>
-        <source>These are your Elicoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Hauek dira zure Elicoin helbideak dirua bidaltzeko. Beti egiaztatu diru-kantitatea eta jasotzeko helbidea bidali baino lehen.</translation>
+        <source>These are your Rtidcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Hauek dira zure Rtidcoin helbideak dirua bidaltzeko. Beti egiaztatu diru-kantitatea eta jasotzeko helbidea bidali baino lehen.</translation>
     </message>
     <message>
-        <source>These are your Elicoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Hauek dira zure Elicoin helbideak dirua jasotzeko. Gomendagarria da erabiltzea jasotzeko helbide berri bat operazio bakoitzeko.</translation>
+        <source>These are your Rtidcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Hauek dira zure Rtidcoin helbideak dirua jasotzeko. Gomendagarria da erabiltzea jasotzeko helbide berri bat operazio bakoitzeko.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -160,8 +160,8 @@
         <translation>Berretsi zorroaren enkriptazioa</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR ELICOINS&lt;/b&gt;!</source>
-        <translation>Abisua: Zuk enkriptatzen baduzu zure diruzorroa eta zure pasahitza galtzen baduzu, &lt;b&gt;ELICOIN GUZTIAK GALDUKO DITUZU&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR RTIDCOINS&lt;/b&gt;!</source>
+        <translation>Abisua: Zuk enkriptatzen baduzu zure diruzorroa eta zure pasahitza galtzen baduzu, &lt;b&gt;RTIDCOIN GUZTIAK GALDUKO DITUZU&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -239,7 +239,7 @@
     </message>
     <message>
         <source>Show information about Qt</source>
-        <translation>Erakutsi Elicoin-i buruzko informazioa</translation>
+        <translation>Erakutsi Rtidcoin-i buruzko informazioa</translation>
     </message>
     <message>
         <source>&amp;Options...</source>

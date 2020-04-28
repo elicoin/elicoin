@@ -1,7 +1,7 @@
 The [pull-tester](/qa/pull-tester/) folder contains a script to call
 multiple tests from the [rpc-tests](/qa/rpc-tests/) folder.
 
-Every pull request to the elicoin repository is built and run through
+Every pull request to the rtidcoin repository is built and run through
 the regression test suite. You can also run all or only individual
 tests locally.
 
@@ -11,17 +11,17 @@ Before running the tests, the following must be installed.
 
 Unix
 ----
-`python3-zmq` and `elicoin_scrypt` are required. On Ubuntu or Debian they can be installed via:
+`python3-zmq` and `rtidcoin_scrypt` are required. On Ubuntu or Debian they can be installed via:
 ```
 sudo apt-get install python3-zmq
-pip3 install elicoin_scrypt
+pip3 install rtidcoin_scrypt
 ```
 
 OS X
 ------
 ```
 pip3 install pyzmq
-pip3 install elicoin_scrypt
+pip3 install rtidcoin_scrypt
 ```
 
 Running tests
@@ -52,9 +52,9 @@ Possible options, which apply to each individual test run:
 
 ```
   -h, --help            show this help message and exit
-  --nocleanup           Leave elicoinds and test.* datadir on exit or error
-  --noshutdown          Don't stop elicoinds after the test execution
-  --srcdir=SRCDIR       Source directory containing elicoind/elicoin-cli
+  --nocleanup           Leave rtidcoinds and test.* datadir on exit or error
+  --noshutdown          Don't stop rtidcoinds after the test execution
+  --srcdir=SRCDIR       Source directory containing rtidcoind/rtidcoin-cli
                         (default: ../../src)
   --tmpdir=TMPDIR       Root directory for datadirs
   --tracerpc            Print out all RPC calls as they are made
@@ -79,7 +79,7 @@ to recover with:
 
 ```bash
 rm -rf cache
-killall elicoind
+killall rtidcoind
 ```
 
 Writing tests

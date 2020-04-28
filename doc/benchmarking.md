@@ -1,11 +1,11 @@
 Benchmarking
 ============
 
-Elicoin Core has an internal benchmarking framework, with benchmarks
+Rtidcoin Core has an internal benchmarking framework, with benchmarks
 for cryptographic algorithms such as SHA1, SHA256, SHA512 and RIPEMD160. As well as the rolling bloom filter.
 
-After compiling elicoin-core, the benchmarks can be run with:
-`src/bench/bench_elicoin`
+After compiling rtidcoin-core, the benchmarks can be run with:
+`src/bench/bench_rtidcoin`
 
 The output will look similar to:
 ```

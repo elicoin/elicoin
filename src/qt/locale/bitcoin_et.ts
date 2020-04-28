@@ -62,12 +62,12 @@
         <translation>Vastuvõtvad aadressid</translation>
     </message>
     <message>
-        <source>These are your Elicoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Need on sinu Elicoin aadressid maksete saatmiseks. Ennem müntide saatmist kontrolli alati summat ja makse saaja aadressi.</translation>
+        <source>These are your Rtidcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Need on sinu Rtidcoin aadressid maksete saatmiseks. Ennem müntide saatmist kontrolli alati summat ja makse saaja aadressi.</translation>
     </message>
     <message>
-        <source>These are your Elicoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Need on sinu Elicoin aadressid sisenevate maksete vastu võtmiseks. Soovitav on iga tehingu tarbeks kasutada uut aadressi.</translation>
+        <source>These are your Rtidcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Need on sinu Rtidcoin aadressid sisenevate maksete vastu võtmiseks. Soovitav on iga tehingu tarbeks kasutada uut aadressi.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -168,8 +168,8 @@
         <translation>Kinnita rahakoti krüpteerimine.</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR ELICOINS&lt;/b&gt;!</source>
-        <translation>Hoiatus:Kui sa krüpteerid oma rahakoti ja kaotad salafraasi, siis sa&lt;b&gt;KAOTAD OMA ELICOINID&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR RTIDCOINS&lt;/b&gt;!</source>
+        <translation>Hoiatus:Kui sa krüpteerid oma rahakoti ja kaotad salafraasi, siis sa&lt;b&gt;KAOTAD OMA RTIDCOINID&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -290,8 +290,8 @@
         <translation>Kettal olevate blokkide re-indekseerimine...</translation>
     </message>
     <message>
-        <source>Send coins to a Elicoin address</source>
-        <translation>Saada münte Elicoini aadressile</translation>
+        <source>Send coins to a Rtidcoin address</source>
+        <translation>Saada münte Rtidcoini aadressile</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -314,8 +314,8 @@
         <translation>&amp;Kontrolli sõnumit...</translation>
     </message>
     <message>
-        <source>Elicoin</source>
-        <translation>Elicoin</translation>
+        <source>Rtidcoin</source>
+        <translation>Rtidcoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -342,12 +342,12 @@
         <translation>Krüpteeri oma rahakoti privaatvõtmed</translation>
     </message>
     <message>
-        <source>Sign messages with your Elicoin addresses to prove you own them</source>
-        <translation>Omandi tõestamiseks allkirjasta sõnumid oma Elicoini aadressiga</translation>
+        <source>Sign messages with your Rtidcoin addresses to prove you own them</source>
+        <translation>Omandi tõestamiseks allkirjasta sõnumid oma Rtidcoini aadressiga</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Elicoin addresses</source>
-        <translation>Kinnita sõnumid kindlustamaks et need allkirjastati määratud Elicoini aadressiga</translation>
+        <source>Verify messages to ensure they were signed with specified Rtidcoin addresses</source>
+        <translation>Kinnita sõnumid kindlustamaks et need allkirjastati määratud Rtidcoini aadressiga</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -366,20 +366,20 @@
         <translation>Vahelehe tööriistariba</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and elicoin: URIs)</source>
-        <translation>Loo maksepäring (genereerib QR koodid ja elicoini: URId)</translation>
+        <source>Request payments (generates QR codes and rtidcoin: URIs)</source>
+        <translation>Loo maksepäring (genereerib QR koodid ja rtidcoini: URId)</translation>
     </message>
     <message>
-        <source>Open a elicoin: URI or payment request</source>
-        <translation>Ava elicoini: URI või maksepäring</translation>
+        <source>Open a rtidcoin: URI or payment request</source>
+        <translation>Ava rtidcoini: URI või maksepäring</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>Käsurea valikud</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Elicoin network</source>
-        <translation><numerusform>%n aktiivne ühendus Elicoini võrku</numerusform><numerusform>%n aktiivset ühendust Elicoini võrku</numerusform></translation>
+        <source>%n active connection(s) to Rtidcoin network</source>
+        <translation><numerusform>%n aktiivne ühendus Rtidcoini võrku</numerusform><numerusform>%n aktiivset ühendust Rtidcoini võrku</numerusform></translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>
@@ -626,8 +626,8 @@
         <translation>Muuda saatvat aadressi</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Elicoin address.</source>
-        <translation>Sisestatud aadress "%1" ei ole korrektne Elicoin aadress.</translation>
+        <source>The entered address "%1" is not a valid Rtidcoin address.</source>
+        <translation>Sisestatud aadress "%1" ei ole korrektne Rtidcoin aadress.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -756,8 +756,8 @@
         <translation>Ekspert</translation>
     </message>
     <message>
-        <source>Automatically open the Elicoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Elicoini kliendi pordi automaatne avamine ruuteris. Toimib, kui sinu ruuter aktsepteerib UPnP ühendust.</translation>
+        <source>Automatically open the Rtidcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Rtidcoini kliendi pordi automaatne avamine ruuteris. Toimib, kui sinu ruuter aktsepteerib UPnP ühendust.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -855,7 +855,7 @@
         <translation>Vorm</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Elicoin network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Rtidcoin network after a connection is established, but this process has not completed yet.</source>
         <translation>Kuvatav info ei pruugi olla ajakohane. Ühenduse loomisel süngitakse sinu rahakott automaatselt Liteconi võrgustikuga, kuid see toiming on hetkel lõpetamata.</translation>
     </message>
     <message>
@@ -1337,8 +1337,8 @@
         <translation>Maksepäring aegunud.</translation>
     </message>
     <message>
-        <source>Warning: Invalid Elicoin address</source>
-        <translation>Hoiatus: Ebakorrektne Elicoin aadress</translation>
+        <source>Warning: Invalid Rtidcoin address</source>
+        <translation>Hoiatus: Ebakorrektne Rtidcoin aadress</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1417,8 +1417,8 @@
         <translation>&amp;Allkirjastamise teade</translation>
     </message>
     <message>
-        <source>The Elicoin address to sign the message with</source>
-        <translation>Elicoin aadress millega sõnum allkirjastada</translation>
+        <source>The Rtidcoin address to sign the message with</source>
+        <translation>Rtidcoin aadress millega sõnum allkirjastada</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -1449,8 +1449,8 @@
         <translation>Kopeeri praegune signatuur vahemällu</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Elicoin address</source>
-        <translation>Allkirjasta sõnum Elicoini aadressi sulle kuulumise tõestamiseks</translation>
+        <source>Sign the message to prove you own this Rtidcoin address</source>
+        <translation>Allkirjasta sõnum Rtidcoini aadressi sulle kuulumise tõestamiseks</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -1469,12 +1469,12 @@
         <translation>&amp;Kinnita Sõnum</translation>
     </message>
     <message>
-        <source>The Elicoin address the message was signed with</source>
-        <translation>Elicoin aadress millega sõnum on allkirjastatud</translation>
+        <source>The Rtidcoin address the message was signed with</source>
+        <translation>Rtidcoin aadress millega sõnum on allkirjastatud</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Elicoin address</source>
-        <translation>Kinnita sõnum tõestamaks selle allkirjastatust määratud Elicoini aadressiga.</translation>
+        <source>Verify the message to ensure it was signed with the specified Rtidcoin address</source>
+        <translation>Kinnita sõnum tõestamaks selle allkirjastatust määratud Rtidcoini aadressiga.</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -1758,8 +1758,8 @@
         <translation>Tööta taustal ning aktsepteeri käsklusi</translation>
     </message>
     <message>
-        <source>Elicoin Core</source>
-        <translation>Elicoini tuumik</translation>
+        <source>Rtidcoin Core</source>
+        <translation>Rtidcoini tuumik</translation>
     </message>
     <message>
         <source>Bind to given address and always listen on it. Use [host]:port notation for IPv6</source>

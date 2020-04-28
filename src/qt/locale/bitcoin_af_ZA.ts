@@ -214,8 +214,8 @@
         <translation>&amp;Opsies</translation>
     </message>
     <message>
-        <source>Elicoin</source>
-        <translation>Elicoin</translation>
+        <source>Rtidcoin</source>
+        <translation>Rtidcoin</translation>
     </message>
     <message>
         <source>Wallet</source>

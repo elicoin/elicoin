@@ -130,8 +130,8 @@
         <translation>Kõvakettal olevate plokkide reindekseerimine...</translation>
     </message>
     <message>
-        <source>Elicoin</source>
-        <translation>Elicoin</translation>
+        <source>Rtidcoin</source>
+        <translation>Rtidcoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -760,8 +760,8 @@
         <translation>Valikud:</translation>
     </message>
     <message>
-        <source>Elicoin Core</source>
-        <translation>Elicoin Core</translation>
+        <source>Rtidcoin Core</source>
+        <translation>Rtidcoin Core</translation>
     </message>
     <message>
         <source>Information</source>

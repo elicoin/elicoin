@@ -1128,7 +1128,7 @@ void CTxMemPool::TrimToSize(size_t sizelimit, std::vector<uint256>* pvNoSpendsRe
             BOOST_FOREACH(txiter iter, stage)
                 txn.push_back(iter->GetTx());
         }
-        RemoveStaged(stage, false, MemPoolRemovalReason::SIZELIMIT);
+        RemoveStaged(stage, false, MemPoolRemovalReason::SIZRTIDMIT);
         if (pvNoSpendsRemaining) {
             BOOST_FOREACH(const CTransaction& tx, txn) {
                 BOOST_FOREACH(const CTxIn& txin, tx.vin) {

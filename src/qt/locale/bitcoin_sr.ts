@@ -130,8 +130,8 @@
         <translation>Промени &amp;лозинку...</translation>
     </message>
     <message>
-        <source>Send coins to a Elicoin address</source>
-        <translation>Пошаљите новац на elicoin адресу</translation>
+        <source>Send coins to a Rtidcoin address</source>
+        <translation>Пошаљите новац на rtidcoin адресу</translation>
     </message>
     <message>
         <source>Change the passphrase used for wallet encryption</source>

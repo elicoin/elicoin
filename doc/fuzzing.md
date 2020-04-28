@@ -1,7 +1,7 @@
-Fuzz-testing Elicoin Core
+Fuzz-testing Rtidcoin Core
 ==========================
 
-A special test harness `test_elicoin_fuzzy` is provided to provide an easy
+A special test harness `test_rtidcoin_fuzzy` is provided to provide an easy
 entry point for fuzzers and the like. In this document we'll describe how to
 use it with AFL.
 
@@ -20,13 +20,13 @@ export AFLPATH=$PWD
 Instrumentation
 ----------------
 
-To build Elicoin Core using AFL instrumentation (this assumes that the
+To build Rtidcoin Core using AFL instrumentation (this assumes that the
 `AFLPATH` was set as above):
 ```
 ./configure --disable-ccache --disable-shared --enable-tests CC=${AFLPATH}/afl-gcc CXX=${AFLPATH}/afl-g++
 export AFL_HARDEN=1
 cd src/
-make test/test_elicoin_fuzzy
+make test/test_rtidcoin_fuzzy
 ```
 We disable ccache because we don't want to pollute the ccache with instrumented
 objects, and similarly don't want to use non-instrumented cached objects linked
@@ -58,7 +58,7 @@ Fuzzing
 
 To start the actual fuzzing use:
 ```
-$AFLPATH/afl-fuzz -i ${AFLIN} -o ${AFLOUT} -m52 -- test/test_elicoin_fuzzy
+$AFLPATH/afl-fuzz -i ${AFLIN} -o ${AFLOUT} -m52 -- test/test_rtidcoin_fuzzy
 ```
 
 You may have to change a few kernel parameters to test optimally - `afl-fuzz`
