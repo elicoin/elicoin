@@ -90,9 +90,15 @@ Rtidcoin is open source software developed under [**MIT license**](./LICENSE).
 
 **Donation:**
 **Rtidcoin:** | [**RCgXBRL9ezyJgo7KmCCHJktsXbWd37HnKe**](http://explorer.rtid-platform.web.id/address/RCgXBRL9ezyJgo7KmCCHJktsXbWd37HnKe)
+
 **Bitcoin:** | [**bc1q5zjkvfdqac5sksd0650de2qvk99nn0wu3vmfpn**](https://blockchain.info/address/bc1q5zjkvfdqac5sksd0650de2qvk99nn0wu3vmfpn)
+
 **Bitcoin Cash:** | [**qzc2hpzpjfezsakyu0adyuc8nttl8jr5fy9yushzt3**](https://blockchair.com/search?q=qzc2hpzpjfezsakyu0adyuc8nttl8jr5fy9yushzt3)
+
 **Litecoin:** | [**ltc1qurs259fa8ala9yu39ag00ppvrtgw3nqhrpwhrv**](https://ltc-bitcore1.trezor.io/address/ltc1qurs259fa8ala9yu39ag00ppvrtgw3nqhrpwhrv)
+
 **Dash:** | [**XoJWCwceeN1ZhSzGcrMByvHTnDg19Vd2jP**](https://explorer.dash.org/address/XoJWCwceeN1ZhSzGcrMByvHTnDg19Vd2jP)
+
 **Zcash:** | [**t1QXgnMdKZD9RQLq6Ln7qsnTdjygEmsDohw**](https://explorer.zcha.in/accounts/t1QXgnMdKZD9RQLq6Ln7qsnTdjygEmsDohw)
+
 **Dogecoin:** | [**DNBT1V9sXgYaHaCYFd4oXZUUax5HNUrVqx**](https://dogechain.info/address/DNBT1V9sXgYaHaCYFd4oXZUUax5HNUrVqx)
