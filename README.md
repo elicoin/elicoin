@@ -5,7 +5,7 @@ Rtidcoin is a CPU mineable cryptocurrency and open source software developed und
 - [Download Rtidcoin Core wallet for Windows](https://github.com/Rtid-Platform/Rtid-Platform/releases/)
 - [Download Rtidcoin Core wallet for macOS](https://github.com/Rtid-Platform/Rtid-Platform/releases/)
 - [Download Rtidcoin Core wallet for Debian / Ubuntu Linux](https://github.com/Rtid-Platform/Rtid-Platform/releases/)
-- [Rtidcoin Paper Wallet Generator webpage](https://paper.rtidcoin.net)
+- [Rtidcoin Paper Wallet Generator webpage](https://paper.rtid-platform.web.id)
 
 # Build Rtidcoin Core wallet from source codes
 
@@ -72,17 +72,27 @@ Rtidcoin is open source software developed under [**MIT license**](./LICENSE).
 - [**Rtidcoin user support e-mail**](mailto:admin@rtid-platform.web.id)
 
 **Community:**
-- [**Rtidcoin on BitcoinTalk**](https://bitcointalk.org/index.php?topic=3028302)
+- [**Rtidcoin on BitcoinTalk**](https://bitcointalk.org/index.php?topic=5247613)
 - [**Rtidcoin on CryptocurrencyTalk**](https://cryptocurrencytalk.com/topic/98937-anneli-rtidcoin-cpu-mining-only-exchange-available/)
-- [**Rtidcoin on Facebook**](https://www.facebook.com/rtidcoin.net/)
-- [**Rtidcoin on Twitter**](https://twitter.com/rtidcoin)
-- [**Rtidcoin Discord server**](https://discord.gg/cv77fUp)
+- [**Rtidcoin on Facebook**](https://web.facebook.com/groups/873317029801122/)
+- [**Rtidcoin on Twitter**](https://twitter.com/RTID_Platfrom)
+- [**Rtidcoin Discord server**](https://discord.gg/uxB9ugu)
 - [**Rtidcoin Telegram announcements**](https://t.me/RTID_Platform)
-- [**Rtidcoin Telegram chat**](https://t.me/RTID_Official)
+- [**Rtidcoin Telegram chat**](https://t.me/rtidcoin)
 
 **Block Explorer:**
-- [**Rtidcoin Block Explorer**](http://explorer.rtid-platform)
+- [**Rtidcoin Block Explorer**](http://explorer.rtid-platform.web.id)
 
 **Mining tools:**
 - [**CPU Miner**](https://github.com/JayDDee/cpuminer-opt)
-- [**Rtidcoin Linux**](https://github.com/Rtid-Platform/linux)
+- [**Rtidcoin Linux**](https://github.com/Rtid-Platform/Linux)
+
+
+**Donation:**
+**Rtidcoin:** | [**RCgXBRL9ezyJgo7KmCCHJktsXbWd37HnKe**](http://explorer.rtid-platform.web.id/address/RCgXBRL9ezyJgo7KmCCHJktsXbWd37HnKe)
+**Bitcoin:** | [**bc1q5zjkvfdqac5sksd0650de2qvk99nn0wu3vmfpn**](https://blockchain.info/address/bc1q5zjkvfdqac5sksd0650de2qvk99nn0wu3vmfpn)
+**Bitcoin Cash:** | [**qzc2hpzpjfezsakyu0adyuc8nttl8jr5fy9yushzt3**](https://blockchair.com/search?q=qzc2hpzpjfezsakyu0adyuc8nttl8jr5fy9yushzt3)
+**Litecoin:** | [**ltc1qurs259fa8ala9yu39ag00ppvrtgw3nqhrpwhrv**](https://ltc-bitcore1.trezor.io/address/ltc1qurs259fa8ala9yu39ag00ppvrtgw3nqhrpwhrv)
+**Dash:** | [**XoJWCwceeN1ZhSzGcrMByvHTnDg19Vd2jP**](https://explorer.dash.org/address/XoJWCwceeN1ZhSzGcrMByvHTnDg19Vd2jP)
+**Zcash:** | [**t1QXgnMdKZD9RQLq6Ln7qsnTdjygEmsDohw**](https://explorer.zcha.in/accounts/t1QXgnMdKZD9RQLq6Ln7qsnTdjygEmsDohw)
+**Dogecoin:** | [**DNBT1V9sXgYaHaCYFd4oXZUUax5HNUrVqx**](https://dogechain.info/address/DNBT1V9sXgYaHaCYFd4oXZUUax5HNUrVqx)
