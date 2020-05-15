@@ -81,7 +81,7 @@ Rtidcoin is open source software developed under [**MIT license**](./LICENSE).
 - [**Rtidcoin Telegram chat**](https://t.me/rtidcoin)
 
 **Block Explorer:**
-- [**Rtidcoin Block Explorer**](o://explorer.rtid-platform.web.id)
+- [**Rtidcoin Block Explorer**](http://explorer.rtid-platform.web.id)
 
 **Mining tools:**
 - [**CPU Miner**](https://github.com/JayDDee/cpuminer-opt)
