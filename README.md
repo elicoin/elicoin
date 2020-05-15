@@ -58,7 +58,7 @@ If you're an exchange owner and you would like to add Rtidcoin on your exchange,
 
 Link | Description
 ---- | -----------
-**http://explorer.rtid-platform** | Official Rtidcoin block explorer
+**http://explorer.rtid-platform.web.id** | Official Rtidcoin block explorer
 
 # License
 
@@ -73,7 +73,7 @@ Rtidcoin is open source software developed under [**MIT license**](./LICENSE).
 
 **Community:**
 - [**Rtidcoin on BitcoinTalk**](https://bitcointalk.org/index.php?topic=5247613)
-- [**Rtidcoin on CryptocurrencyTalk**](https://cryptocurrencytalk.com/topic/98937-anneli-rtidcoin-cpu-mining-only-exchange-available/)
+
 - [**Rtidcoin on Facebook**](https://web.facebook.com/groups/873317029801122/)
 - [**Rtidcoin on Twitter**](https://twitter.com/RTID_Platfrom)
 - [**Rtidcoin Discord server**](https://discord.gg/uxB9ugu)
@@ -81,7 +81,7 @@ Rtidcoin is open source software developed under [**MIT license**](./LICENSE).
 - [**Rtidcoin Telegram chat**](https://t.me/rtidcoin)
 
 **Block Explorer:**
-- [**Rtidcoin Block Explorer**](http://explorer.rtid-platform.web.id)
+- [**Rtidcoin Block Explorer**](o://explorer.rtid-platform.web.id)
 
 **Mining tools:**
 - [**CPU Miner**](https://github.com/JayDDee/cpuminer-opt)
