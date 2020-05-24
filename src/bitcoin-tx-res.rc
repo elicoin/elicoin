@@ -16,14 +16,14 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "Elicoin"
-            VALUE "FileDescription",    "elicoin-tx (CLI Elicoin transaction editor utility)"
+            VALUE "CompanyName",        "Rtidcoin"
+            VALUE "FileDescription",    "rtidcoin-tx (CLI Rtidcoin transaction editor utility)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
-            VALUE "InternalName",       "elicoin-tx"
+            VALUE "InternalName",       "rtidcoin-tx"
             VALUE "LegalCopyright",     COPYRIGHT_STR
             VALUE "LegalTrademarks1",   "Distributed under the MIT software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
-            VALUE "OriginalFilename",   "elicoin-tx.exe"
-            VALUE "ProductName",        "elicoin-tx"
+            VALUE "OriginalFilename",   "rtidcoin-tx.exe"
+            VALUE "ProductName",        "rtidcoin-tx"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END
     END

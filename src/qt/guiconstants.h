@@ -48,9 +48,9 @@ static const int MAX_URI_LENGTH = 255;
 /* Number of frames in spinner animation */
 #define SPINNER_FRAMES 36
 
-#define QAPP_ORG_NAME "Elicoin"
-#define QAPP_ORG_DOMAIN "elicoin.net"
-#define QAPP_APP_NAME_DEFAULT "Elicoin-Qt"
-#define QAPP_APP_NAME_TESTNET "Elicoin-Qt-testnet"
+#define QAPP_ORG_NAME "Rtidcoin"
+#define QAPP_ORG_DOMAIN "rtidcoin.net"
+#define QAPP_APP_NAME_DEFAULT "Rtidcoin-Qt"
+#define QAPP_APP_NAME_TESTNET "Rtidcoin-Qt-testnet"
 
 #endif // BITCOIN_QT_GUICONSTANTS_H

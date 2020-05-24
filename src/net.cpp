@@ -1466,7 +1466,7 @@ void ThreadMapPort()
             }
         }
 
-        std::string strDesc = "Elicoin " + FormatFullVersion();
+        std::string strDesc = "Rtidcoin " + FormatFullVersion();
 
         try {
             while (true) {

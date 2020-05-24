@@ -218,8 +218,8 @@
         <translation>Réindexer les blocs sur le disque...</translation>
     </message>
     <message>
-        <source>Send coins to a Elicoin address</source>
-        <translation>Envoyer des pièces à une adresse Elicoin</translation>
+        <source>Send coins to a Rtidcoin address</source>
+        <translation>Envoyer des pièces à une adresse Rtidcoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -242,8 +242,8 @@
         <translation>&amp;Vérification du message</translation>
     </message>
     <message>
-        <source>Elicoin</source>
-        <translation>Elicoin</translation>
+        <source>Rtidcoin</source>
+        <translation>Rtidcoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -270,8 +270,8 @@
         <translation>Crypter les clé privées qui appartiennent votre portefeuille</translation>
     </message>
     <message>
-        <source>Sign messages with your Elicoin addresses to prove you own them</source>
-        <translation>Signer vos messages avec vos adresses Elicoin pour prouver que vous les détenez</translation>
+        <source>Sign messages with your Rtidcoin addresses to prove you own them</source>
+        <translation>Signer vos messages avec vos adresses Rtidcoin pour prouver que vous les détenez</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -290,24 +290,24 @@
         <translation>Barre d'outils des onglets</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and elicoin: URIs)</source>
-        <translation>Demander des paiements (générer QR codes et elicoin: URIs)</translation>
+        <source>Request payments (generates QR codes and rtidcoin: URIs)</source>
+        <translation>Demander des paiements (générer QR codes et rtidcoin: URIs)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
         <translation>Montrer la liste des adresses d'envois utilisées et les étiquettes</translation>
     </message>
     <message>
-        <source>Open a elicoin: URI or payment request</source>
-        <translation>Ouvrir un elicoin: URI ou demande de paiement</translation>
+        <source>Open a rtidcoin: URI or payment request</source>
+        <translation>Ouvrir un rtidcoin: URI ou demande de paiement</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>&amp;Options de ligne de commande</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Elicoin network</source>
-        <translation><numerusform>%n connexion active au réseau Elicoin</numerusform><numerusform>%n connexions actives au réseau Elicoin</numerusform></translation>
+        <source>%n active connection(s) to Rtidcoin network</source>
+        <translation><numerusform>%n connexion active au réseau Rtidcoin</numerusform><numerusform>%n connexions actives au réseau Rtidcoin</numerusform></translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>
@@ -684,8 +684,8 @@
         <translation>Expert</translation>
     </message>
     <message>
-        <source>Automatically open the Elicoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Ouvrir le port du client Elicoin automatiquement sur le routeur. Cela ne fonctionne que si votre routeur supporte l'UPnP et si la fonctionnalité est activée.</translation>
+        <source>Automatically open the Rtidcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Ouvrir le port du client Rtidcoin automatiquement sur le routeur. Cela ne fonctionne que si votre routeur supporte l'UPnP et si la fonctionnalité est activée.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -844,8 +844,8 @@
         <translation>Montant</translation>
     </message>
     <message>
-        <source>Enter a Elicoin address (e.g. %1)</source>
-        <translation>Entrer une adresse Elicoin (e.g. %1)</translation>
+        <source>Enter a Rtidcoin address (e.g. %1)</source>
+        <translation>Entrer une adresse Rtidcoin (e.g. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1662,8 +1662,8 @@
         <translation>Impossible de démarrer le serveur HTTP. Voir le journal de débogage pour plus de détails.</translation>
     </message>
     <message>
-        <source>Elicoin Core</source>
-        <translation>Elicoin Core</translation>
+        <source>Rtidcoin Core</source>
+        <translation>Rtidcoin Core</translation>
     </message>
     <message>
         <source>&lt;category&gt; can be:</source>

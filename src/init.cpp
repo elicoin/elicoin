@@ -92,7 +92,7 @@ enum BindFlags {
     BF_NONE         = 0,
     BF_EXPLICIT     = (1U << 0),
     BF_REPORT_ERROR = (1U << 1),
-    BF_WHITELIST    = (1U << 2),
+    BF_WHITRTIDST    = (1U << 2),
 };
 
 static const char* FEE_ESTIMATES_FILENAME="fee_estimates.dat";
@@ -285,7 +285,7 @@ bool static Bind(CConnman& connman, const CService &addr, unsigned int flags) {
     if (!(flags & BF_EXPLICIT) && IsLimited(addr))
         return false;
     std::string strError;
-    if (!connman.BindListenPort(addr, strError, (flags & BF_WHITELIST) != 0)) {
+    if (!connman.BindListenPort(addr, strError, (flags & BF_WHITRTIDST) != 0)) {
         if (flags & BF_REPORT_ERROR)
             return InitError(strError);
         return false;
@@ -398,8 +398,8 @@ std::string HelpMessage(HelpMessageMode mode)
     strUsage += HelpMessageOpt("-whitebind=<addr>", _("Bind to given address and whitelist peers connecting to it. Use [host]:port notation for IPv6"));
     strUsage += HelpMessageOpt("-whitelist=<IP address or network>", _("Whitelist peers connecting from the given IP address (e.g. 1.2.3.4) or CIDR notated network (e.g. 1.2.3.0/24). Can be specified multiple times.") +
         " " + _("Whitelisted peers cannot be DoS banned and their transactions are always relayed, even if they are already in the mempool, useful e.g. for a gateway"));
-    strUsage += HelpMessageOpt("-whitelistrelay", strprintf(_("Accept relayed transactions received from whitelisted peers even when not relaying transactions (default: %d)"), DEFAULT_WHITELISTRELAY));
-    strUsage += HelpMessageOpt("-whitelistforcerelay", strprintf(_("Force relay of transactions from whitelisted peers even if they violate local relay policy (default: %d)"), DEFAULT_WHITELISTFORCERELAY));
+    strUsage += HelpMessageOpt("-whitelistrelay", strprintf(_("Accept relayed transactions received from whitelisted peers even when not relaying transactions (default: %d)"), DEFAULT_WHITRTIDSTRELAY));
+    strUsage += HelpMessageOpt("-whitelistforcerelay", strprintf(_("Force relay of transactions from whitelisted peers even if they violate local relay policy (default: %d)"), DEFAULT_WHITRTIDSTFORCERELAY));
     strUsage += HelpMessageOpt("-maxuploadtarget=<n>", strprintf(_("Tries to keep outbound traffic under the given target (in MiB per 24h), 0 = no limit (default: %d)"), DEFAULT_MAX_UPLOAD_TARGET));
 
 #ifdef ENABLE_WALLET
@@ -506,8 +506,8 @@ std::string HelpMessage(HelpMessageMode mode)
 
 std::string LicenseInfo()
 {
-    const std::string URL_SOURCE_CODE = "<https://github.com/elicoin/elicoin>";
-    const std::string URL_WEBSITE = "<https://elicoin.net>";
+    const std::string URL_SOURCE_CODE = "<https://github.com/rtid-platform/rtid-platform.web.id>";
+    const std::string URL_WEBSITE = "<https://rtid-platform.web.id>";
 
     return CopyrightHolders(strprintf(_("Copyright (C) %i-%i"), 2017, COPYRIGHT_YEAR) + " ") + "\n" +
            "\n" +
@@ -769,7 +769,7 @@ void InitParameterInteraction()
     }
 
     // Forcing relay from whitelisted hosts implies we will accept relays from them in the first place.
-    if (GetBoolArg("-whitelistforcerelay", DEFAULT_WHITELISTFORCERELAY)) {
+    if (GetBoolArg("-whitelistforcerelay", DEFAULT_WHITRTIDSTFORCERELAY)) {
         if (SoftSetBoolArg("-whitelistrelay", true))
             LogPrintf("%s: parameter interaction: -whitelistforcerelay=1 -> setting -whitelistrelay=1\n", __func__);
     }
@@ -788,7 +788,7 @@ void InitLogging()
     fLogIPs = GetBoolArg("-logips", DEFAULT_LOGIPS);
 
     LogPrintf("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n");
-    LogPrintf("Elicoin version %s\n", FormatFullVersion());
+    LogPrintf("Rtidcoin version %s\n", FormatFullVersion());
 }
 
 namespace { // Variables internal to initialization process only
@@ -1326,7 +1326,7 @@ bool AppInitMain(boost::thread_group& threadGroup, CScheduler& scheduler)
                     return InitError(ResolveErrMsg("whitebind", strBind));
                 if (addrBind.GetPort() == 0)
                     return InitError(strprintf(_("Need to specify a port with -whitebind: '%s'"), strBind));
-                fBound |= Bind(connman, addrBind, (BF_EXPLICIT | BF_REPORT_ERROR | BF_WHITELIST));
+                fBound |= Bind(connman, addrBind, (BF_EXPLICIT | BF_REPORT_ERROR | BF_WHITRTIDST));
             }
         }
         if (!mapMultiArgs.count("-bind") && !mapMultiArgs.count("-whitebind")) {
@@ -1652,10 +1652,10 @@ bool AppInitMain(boost::thread_group& threadGroup, CScheduler& scheduler)
 
     // ********************************************************* Step 12: finished
 
-    connman.AddNode("seed1.elicoin.net");
-    connman.AddNode("seed2.elicoin.net");
-    connman.AddNode("seed3.elicoin.net");
-    connman.AddNode("seed4.elicoin.net");
+    connman.AddNode("seed1.rtid-platform.web.id");
+    connman.AddNode("explorer.rtid-platform.web.id");
+    connman.AddNode("pool.rtid-platform.web.id");
+    connman.AddNode("api.rtid-platform.web.id");
     SetRPCWarmupFinished();
     uiInterface.InitMessage(_("Done loading"));
 

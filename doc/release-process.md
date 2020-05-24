@@ -5,7 +5,7 @@ Before every release candidate:
 
 * Update translations (ping wumpus on IRC) see [translation_process.md](https://github.com/bitcoin/bitcoin/blob/master/doc/translation_process.md#synchronising-translations).
 
-* Update manpages, see [gen-manpages.sh](https://github.com/elicoin-project/elicoin/blob/master/contrib/devtools/README.md#gen-manpagessh).
+* Update manpages, see [gen-manpages.sh](https://github.com/rtidcoin-project/rtidcoin/blob/master/contrib/devtools/README.md#gen-manpagessh).
 
 Before every minor and major release:
 
@@ -31,12 +31,12 @@ If you're using the automated script (found in [contrib/gitian-build.sh](/contri
 Check out the source code in the following directory hierarchy.
 
     cd /path/to/your/toplevel/build
-    git clone https://github.com/elicoin-project/gitian.sigs.ltc.git
-    git clone https://github.com/elicoin-project/elicoin-detached-sigs.git
+    git clone https://github.com/rtidcoin-project/gitian.sigs.ltc.git
+    git clone https://github.com/rtidcoin-project/rtidcoin-detached-sigs.git
     git clone https://github.com/devrandom/gitian-builder.git
-    git clone https://github.com/elicoin-project/elicoin.git
+    git clone https://github.com/rtidcoin-project/rtidcoin.git
 
-### Elicoin maintainers/release engineers, update version in sources
+### Rtidcoin maintainers/release engineers, update version in sources
 
 Update the following:
 
@@ -75,7 +75,7 @@ If you're using the automated script (found in [contrib/gitian-build.sh](/contri
 
 Setup Gitian descriptors:
 
-    pushd ./elicoin
+    pushd ./rtidcoin
     export SIGNER=(your Gitian key, ie bluematt, sipa, etc)
     export VERSION=(new version, e.g. 0.8.0)
     git fetch
@@ -109,7 +109,7 @@ Create the OS X SDK tarball, see the [OS X readme](README_osx.md) for details, a
 By default, Gitian will fetch source files as needed. To cache them ahead of time:
 
     pushd ./gitian-builder
-    make -C ../elicoin/depends download SOURCES_PATH=`pwd`/cache/common
+    make -C ../rtidcoin/depends download SOURCES_PATH=`pwd`/cache/common
     popd
 
 Only missing files will be fetched, so this is safe to re-run for each build.
@@ -117,50 +117,50 @@ Only missing files will be fetched, so this is safe to re-run for each build.
 NOTE: Offline builds must use the --url flag to ensure Gitian fetches only from local URLs. For example:
 
     pushd ./gitian-builder
-    ./bin/gbuild --url elicoin=/path/to/elicoin,signature=/path/to/sigs {rest of arguments}
+    ./bin/gbuild --url rtidcoin=/path/to/rtidcoin,signature=/path/to/sigs {rest of arguments}
     popd
 
 The gbuild invocations below <b>DO NOT DO THIS</b> by default.
 
-### Build and sign Elicoin Core for Linux, Windows, and OS X:
+### Build and sign Rtidcoin Core for Linux, Windows, and OS X:
 
     pushd ./gitian-builder
-    ./bin/gbuild --memory 3000 --commit elicoin=v${VERSION} ../elicoin/contrib/gitian-descriptors/gitian-linux.yml
-    ./bin/gsign --signer $SIGNER --release ${VERSION}-linux --destination ../gitian.sigs.ltc/ ../elicoin/contrib/gitian-descriptors/gitian-linux.yml
-    mv build/out/elicoin-*.tar.gz build/out/src/elicoin-*.tar.gz ../
+    ./bin/gbuild --memory 3000 --commit rtidcoin=v${VERSION} ../rtidcoin/contrib/gitian-descriptors/gitian-linux.yml
+    ./bin/gsign --signer $SIGNER --release ${VERSION}-linux --destination ../gitian.sigs.ltc/ ../rtidcoin/contrib/gitian-descriptors/gitian-linux.yml
+    mv build/out/rtidcoin-*.tar.gz build/out/src/rtidcoin-*.tar.gz ../
 
-    ./bin/gbuild --memory 3000 --commit elicoin=v${VERSION} ../elicoin/contrib/gitian-descriptors/gitian-win.yml
-    ./bin/gsign --signer $SIGNER --release ${VERSION}-win-unsigned --destination ../gitian.sigs.ltc/ ../elicoin/contrib/gitian-descriptors/gitian-win.yml
-    mv build/out/elicoin-*-win-unsigned.tar.gz inputs/elicoin-win-unsigned.tar.gz
-    mv build/out/elicoin-*.zip build/out/elicoin-*.exe ../
+    ./bin/gbuild --memory 3000 --commit rtidcoin=v${VERSION} ../rtidcoin/contrib/gitian-descriptors/gitian-win.yml
+    ./bin/gsign --signer $SIGNER --release ${VERSION}-win-unsigned --destination ../gitian.sigs.ltc/ ../rtidcoin/contrib/gitian-descriptors/gitian-win.yml
+    mv build/out/rtidcoin-*-win-unsigned.tar.gz inputs/rtidcoin-win-unsigned.tar.gz
+    mv build/out/rtidcoin-*.zip build/out/rtidcoin-*.exe ../
 
-    ./bin/gbuild --memory 3000 --commit elicoin=v${VERSION} ../elicoin/contrib/gitian-descriptors/gitian-osx.yml
-    ./bin/gsign --signer $SIGNER --release ${VERSION}-osx-unsigned --destination ../gitian.sigs.ltc/ ../elicoin/contrib/gitian-descriptors/gitian-osx.yml
-    mv build/out/elicoin-*-osx-unsigned.tar.gz inputs/elicoin-osx-unsigned.tar.gz
-    mv build/out/elicoin-*.tar.gz build/out/elicoin-*.dmg ../
+    ./bin/gbuild --memory 3000 --commit rtidcoin=v${VERSION} ../rtidcoin/contrib/gitian-descriptors/gitian-osx.yml
+    ./bin/gsign --signer $SIGNER --release ${VERSION}-osx-unsigned --destination ../gitian.sigs.ltc/ ../rtidcoin/contrib/gitian-descriptors/gitian-osx.yml
+    mv build/out/rtidcoin-*-osx-unsigned.tar.gz inputs/rtidcoin-osx-unsigned.tar.gz
+    mv build/out/rtidcoin-*.tar.gz build/out/rtidcoin-*.dmg ../
     popd
 
 Build output expected:
 
-  1. source tarball (`elicoin-${VERSION}.tar.gz`)
-  2. linux 32-bit and 64-bit dist tarballs (`elicoin-${VERSION}-linux[32|64].tar.gz`)
-  3. windows 32-bit and 64-bit unsigned installers and dist zips (`elicoin-${VERSION}-win[32|64]-setup-unsigned.exe`, `elicoin-${VERSION}-win[32|64].zip`)
-  4. OS X unsigned installer and dist tarball (`elicoin-${VERSION}-osx-unsigned.dmg`, `elicoin-${VERSION}-osx64.tar.gz`)
+  1. source tarball (`rtidcoin-${VERSION}.tar.gz`)
+  2. linux 32-bit and 64-bit dist tarballs (`rtidcoin-${VERSION}-linux[32|64].tar.gz`)
+  3. windows 32-bit and 64-bit unsigned installers and dist zips (`rtidcoin-${VERSION}-win[32|64]-setup-unsigned.exe`, `rtidcoin-${VERSION}-win[32|64].zip`)
+  4. OS X unsigned installer and dist tarball (`rtidcoin-${VERSION}-osx-unsigned.dmg`, `rtidcoin-${VERSION}-osx64.tar.gz`)
   5. Gitian signatures (in `gitian.sigs.ltc/${VERSION}-<linux|{win,osx}-unsigned>/(your Gitian key)/`)
 
 ### Verify other gitian builders signatures to your own. (Optional)
 
 Add other gitian builders keys to your gpg keyring, and/or refresh keys.
 
-    gpg --import elicoin/contrib/gitian-keys/*.pgp
+    gpg --import rtidcoin/contrib/gitian-keys/*.pgp
     gpg --refresh-keys
 
 Verify the signatures
 
     pushd ./gitian-builder
-    ./bin/gverify -v -d ../gitian.sigs.ltc/ -r ${VERSION}-linux ../elicoin/contrib/gitian-descriptors/gitian-linux.yml
-    ./bin/gverify -v -d ../gitian.sigs.ltc/ -r ${VERSION}-win-unsigned ../elicoin/contrib/gitian-descriptors/gitian-win.yml
-    ./bin/gverify -v -d ../gitian.sigs.ltc/ -r ${VERSION}-osx-unsigned ../elicoin/contrib/gitian-descriptors/gitian-osx.yml
+    ./bin/gverify -v -d ../gitian.sigs.ltc/ -r ${VERSION}-linux ../rtidcoin/contrib/gitian-descriptors/gitian-linux.yml
+    ./bin/gverify -v -d ../gitian.sigs.ltc/ -r ${VERSION}-win-unsigned ../rtidcoin/contrib/gitian-descriptors/gitian-win.yml
+    ./bin/gverify -v -d ../gitian.sigs.ltc/ -r ${VERSION}-osx-unsigned ../rtidcoin/contrib/gitian-descriptors/gitian-osx.yml
     popd
 
 ### Next steps:
@@ -178,25 +178,25 @@ Commit your signature to gitian.sigs.ltc:
 Wait for Windows/OS X detached signatures:
 
 - Once the Windows/OS X builds each have 3 matching signatures, they will be signed with their respective release keys.
-- Detached signatures will then be committed to the [elicoin-detached-sigs](https://github.com/elicoin-project/elicoin-detached-sigs) repository, which can be combined with the unsigned apps to create signed binaries.
+- Detached signatures will then be committed to the [rtidcoin-detached-sigs](https://github.com/rtidcoin-project/rtidcoin-detached-sigs) repository, which can be combined with the unsigned apps to create signed binaries.
 
 Create (and optionally verify) the signed OS X binary:
 
     pushd ./gitian-builder
-    ./bin/gbuild -i --commit signature=v${VERSION} ../elicoin/contrib/gitian-descriptors/gitian-osx-signer.yml
-    ./bin/gsign --signer $SIGNER --release ${VERSION}-osx-signed --destination ../gitian.sigs.ltc/ ../elicoin/contrib/gitian-descriptors/gitian-osx-signer.yml
-    ./bin/gverify -v -d ../gitian.sigs.ltc/ -r ${VERSION}-osx-signed ../elicoin/contrib/gitian-descriptors/gitian-osx-signer.yml
-    mv build/out/elicoin-osx-signed.dmg ../elicoin-${VERSION}-osx.dmg
+    ./bin/gbuild -i --commit signature=v${VERSION} ../rtidcoin/contrib/gitian-descriptors/gitian-osx-signer.yml
+    ./bin/gsign --signer $SIGNER --release ${VERSION}-osx-signed --destination ../gitian.sigs.ltc/ ../rtidcoin/contrib/gitian-descriptors/gitian-osx-signer.yml
+    ./bin/gverify -v -d ../gitian.sigs.ltc/ -r ${VERSION}-osx-signed ../rtidcoin/contrib/gitian-descriptors/gitian-osx-signer.yml
+    mv build/out/rtidcoin-osx-signed.dmg ../rtidcoin-${VERSION}-osx.dmg
     popd
 
 Create (and optionally verify) the signed Windows binaries:
 
     pushd ./gitian-builder
-    ./bin/gbuild -i --commit signature=v${VERSION} ../elicoin/contrib/gitian-descriptors/gitian-win-signer.yml
-    ./bin/gsign --signer $SIGNER --release ${VERSION}-win-signed --destination ../gitian.sigs.ltc/ ../elicoin/contrib/gitian-descriptors/gitian-win-signer.yml
-    ./bin/gverify -v -d ../gitian.sigs.ltc/ -r ${VERSION}-win-signed ../elicoin/contrib/gitian-descriptors/gitian-win-signer.yml
-    mv build/out/elicoin-*win64-setup.exe ../elicoin-${VERSION}-win64-setup.exe
-    mv build/out/elicoin-*win32-setup.exe ../elicoin-${VERSION}-win32-setup.exe
+    ./bin/gbuild -i --commit signature=v${VERSION} ../rtidcoin/contrib/gitian-descriptors/gitian-win-signer.yml
+    ./bin/gsign --signer $SIGNER --release ${VERSION}-win-signed --destination ../gitian.sigs.ltc/ ../rtidcoin/contrib/gitian-descriptors/gitian-win-signer.yml
+    ./bin/gverify -v -d ../gitian.sigs.ltc/ -r ${VERSION}-win-signed ../rtidcoin/contrib/gitian-descriptors/gitian-win-signer.yml
+    mv build/out/rtidcoin-*win64-setup.exe ../rtidcoin-${VERSION}-win64-setup.exe
+    mv build/out/rtidcoin-*win32-setup.exe ../rtidcoin-${VERSION}-win32-setup.exe
     popd
 
 Commit your signature for the signed OS X/Windows binaries:
@@ -218,23 +218,23 @@ sha256sum * > SHA256SUMS
 
 The list of files should be:
 ```
-elicoin-${VERSION}-aarch64-linux-gnu.tar.gz
-elicoin-${VERSION}-arm-linux-gnueabihf.tar.gz
-elicoin-${VERSION}-i686-pc-linux-gnu.tar.gz
-elicoin-${VERSION}-x86_64-linux-gnu.tar.gz
-elicoin-${VERSION}-osx64.tar.gz
-elicoin-${VERSION}-osx.dmg
-elicoin-${VERSION}.tar.gz
-elicoin-${VERSION}-win32-setup.exe
-elicoin-${VERSION}-win32.zip
-elicoin-${VERSION}-win64-setup.exe
-elicoin-${VERSION}-win64.zip
+rtidcoin-${VERSION}-aarch64-linux-gnu.tar.gz
+rtidcoin-${VERSION}-arm-linux-gnueabihf.tar.gz
+rtidcoin-${VERSION}-i686-pc-linux-gnu.tar.gz
+rtidcoin-${VERSION}-x86_64-linux-gnu.tar.gz
+rtidcoin-${VERSION}-osx64.tar.gz
+rtidcoin-${VERSION}-osx.dmg
+rtidcoin-${VERSION}.tar.gz
+rtidcoin-${VERSION}-win32-setup.exe
+rtidcoin-${VERSION}-win32.zip
+rtidcoin-${VERSION}-win64-setup.exe
+rtidcoin-${VERSION}-win64.zip
 ```
 The `*-debug*` files generated by the gitian build contain debug symbols
 for troubleshooting by developers. It is assumed that anyone that is interested
 in debugging can run gitian to generate the files for themselves. To avoid
 end-user confusion about which file to pick, as well as save storage
-space *do not upload these to the elicoin.org server, nor put them in the torrent*.
+space *do not upload these to the rtidcoin.org server, nor put them in the torrent*.
 
 - GPG-sign it, delete the unsigned file:
 ```
@@ -244,24 +244,24 @@ rm SHA256SUMS
 (the digest algorithm is forced to sha256 to avoid confusion of the `Hash:` header that GPG adds with the SHA256 used for the files)
 Note: check that SHA256SUMS itself doesn't end up in SHA256SUMS, which is a spurious/nonsensical entry.
 
-- Upload zips and installers, as well as `SHA256SUMS.asc` from last step, to the elicoin.org server.
+- Upload zips and installers, as well as `SHA256SUMS.asc` from last step, to the rtidcoin.org server.
 
 ```
 
-- Update elicoin.org version
+- Update rtidcoin.org version
 
 - Announce the release:
 
-  - elicoin-dev and elicoin-dev mailing list
+  - rtidcoin-dev and rtidcoin-dev mailing list
 
-  - blog.elicoin.org blog post
+  - blog.rtidcoin.org blog post
 
-  - Update title of #elicoin and #elicoin-dev on Freenode IRC
+  - Update title of #rtidcoin and #rtidcoin-dev on Freenode IRC
 
-  - Optionally twitter, reddit /r/Elicoin, ... but this will usually sort out itself
+  - Optionally twitter, reddit /r/Rtidcoin, ... but this will usually sort out itself
 
   - Archive release notes for the new version to `doc/release-notes/` (branch `master` and branch of the release)
 
-  - Create a [new GitHub release](https://github.com/elicoin-project/elicoin/releases/new) with a link to the archived release notes.
+  - Create a [new GitHub release](https://github.com/rtidcoin-project/rtidcoin/releases/new) with a link to the archived release notes.
 
   - Celebrate

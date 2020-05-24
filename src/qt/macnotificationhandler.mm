@@ -13,7 +13,7 @@
 - (NSString *)__bundleIdentifier
 {
     if (self == [NSBundle mainBundle]) {
-        return @"org.elicoin.Elicoin-Qt";
+        return @"org.rtidcoin.Rtidcoin-Qt";
     } else {
         return [self __bundleIdentifier];
     }

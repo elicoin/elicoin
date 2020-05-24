@@ -70,7 +70,7 @@
         <translation>Құпия сөзді өзгерту</translation>
     </message>
     <message>
-        <source>Elicoin</source>
+        <source>Rtidcoin</source>
         <translation>Биткоин</translation>
     </message>
     <message>
