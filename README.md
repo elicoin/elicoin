@@ -59,9 +59,8 @@ Unofficial list | [**Miningpoolstats.stream**](https://miningpoolstats.stream/el
 Exchange | Pair
 -------- | ----
 [**Crex24**](https://crex24.com/exchange/ELI-BTC) | ELI/BTC
-[**Rocket Exchange**](https://rocket-exchange.net/market/ENY-ELI) | ELI/BTC
 [**BarterDEX**](https://github.com/KomodoPlatform/BarterDEX/releases/) | Various pairs
-[**OpenTrade Multicoins**](https://trade.multicoins.org/) | MC/ELI
+[**OpenTrade Multicoins**](https://trade.multicoins.org/market/MC-ELI) | MC/ELI
 
 If you're an exchange owner and you would like to add Elicoin on your exchange, please [**contact us**](./README.md#contact-info-and-links) and we'll add a link to your exchange here.
 
@@ -99,8 +98,6 @@ If you'd like to donate us some cryptocurrency that is not listed here, please s
 Link | Description
 ---- | -----------
 **http://block.elicoin.net** | Official Elicoin block explorer
-**https://eliblocks.cryptoforge.cc** |
-**http://elicoin.lchain.cc** | 
 
 If you'd like us to list your own Elicoin block explorer here, please [**contact us**](./README.md#contact-info-and-links).
 
