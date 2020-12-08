@@ -15,5 +15,6 @@ https://www.ahashpool.com/
 # Alternative pool list
 
 https://miningpoolstats.stream/elicoin
+https://wheretomine.io/coins/elicoin
 
 If you'd like us to list your Elicoin pool here, please [contact Elicoin developers team](./README.md#contact-info-and-links).
