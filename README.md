@@ -150,6 +150,9 @@ Elicoin is open source software developed under [**MIT license**](./LICENSE).
 - [**CoinCost**](https://coincost.net/en/currency/elicoin)
 - [**mcoins**](https://www.mcoins.cz/elicoin)
 - [**CoinDataFlow**](https://coindataflow.com/en/currency/elicoin)
+- [**CryptoPro**](https://cryptopro.app/price/elicoin/)
+- [**CMC.io**](https://cmc.io/coins/elicoin/exchanges)
+- [**CoinMarketCal.io**](https://coinmarketcal.com/en/coin/elicoin)
 - [**Delta app**](https://getdelta.io/)
 - [**Blockfolio app**](https://blockfolio.com/)
 
